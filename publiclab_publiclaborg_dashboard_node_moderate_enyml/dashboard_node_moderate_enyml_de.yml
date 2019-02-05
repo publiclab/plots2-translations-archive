@@ -1,0 +1,6 @@
+de:
+  dashboard:
+    _node_moderate:
+      approve: "Bestätigen"
+      spam: "Spam"
+      pending_approval: "Ausstehend Bestätigung durch einen <a href='%{url}'>Moderator</a>.  Bitte habe etwas Geduld!"

@@ -1,0 +1,29 @@
+hi_IN:
+  home:
+    dashboard:
+      welcome: 'स्वागत!'
+      need_help: 'मदद की जरूरत है एक नया विचार प्रारंभ करने के लिए, या सहयोगियों को खोज रहे हैं?'
+      join_discussion_list: 'एक सामयिक या स्थानीय पब्लिक लैब चर्चा की सूची में शामिल हो'
+      no_research_note: "आप एक शोध पत्र अभी तक तैनात नहीं किया है -- विचार करें"
+      sharing_work: "अपने काम और हितों को बांटे"
+      please: "कृपया"
+      create_password: "नई PublicLab.org वेबसाइट के लिए एक पासवर्ड बनाए"
+      older_site_deactive: "पुराना PublicLaboratory.org जल्द ही सेवानिवृत्त हो जाएगा।"
+      coming_soon: "जल्द आ रहा है"
+      revised_dashboard: "एक संशोधित डैशबोर्ड!"
+      try_it: "इसे यहाँ से बाहर की कोशिश करो"
+      dashboard_main:
+        dashboard_title: 'डैशबोर्ड'
+        welcome: 'स्वागत'
+        notes: 'टिप्पणियाँ'
+        and: 'और'
+        wiki_edits: 'विकि संपादन'
+        posted_last_week: 'पिछले सप्ताह में नियुक्त थे।'
+      nav_tabs:
+        recent: 'हाल का'
+        activity: 'कार्यकलाप'
+        comments: 'टिप्पणियाँ'
+        liked: 'पसंद किया'
+        subscriptions: 'सदस्यताएँ'
+        lists: 'सूचियाँ'
+      read_more_research_notes: 'और अधिक शोध नोटों को पढ़ें'

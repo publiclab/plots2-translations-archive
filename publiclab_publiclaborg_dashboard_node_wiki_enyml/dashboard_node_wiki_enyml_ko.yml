@@ -1,0 +1,6 @@
+ko:
+  dashboard:
+    _node_wiki:
+      new_page_by: '새 페이지 작성자:'
+      new_edit_by: '새 편집'
+      changes: '변경 사항'

@@ -1,0 +1,10 @@
+es:
+  dashboard:
+    _wiki:
+      shared_knowledge_base: "Una <a href='%{url}'>base de conocimiento compartido</a> para la ciencia comunitaria"
+      search: "Buscar..."
+      new_page: "Nueva página"
+      new_page_by: 'Nueva página por'
+      new_edit_by: 'Nueva edición por'
+      changes: "cambios"
+      more: 'Más'

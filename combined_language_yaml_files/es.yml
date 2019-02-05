@@ -1,0 +1,140 @@
+---
+es:
+  dashboard:
+    _node_wiki:
+      new_page_by: Nueva página por
+      new_edit_by: Nueva edición de
+      changes: Cambios
+    _header:
+      share_work: Comparte tus trabajo
+      dropdown:
+        share_research_note: Comparte una nota de investigación
+        ask_question: Haz una pregunta
+        post_event: Publica un evento
+        tell_story_blog: Cuenta tu historia en el blog
+      dashboard: Tablero
+      community_research: Investigación comunitaria
+      welcome: Bienvenido
+      notes: notas
+      and: y
+      wiki_edits: ediciones de wiki
+      posted_past_week: publicados la semana pasada
+      you_shared: Has compartido
+      research_note: nota de investigación
+      research_notes: notas de investigación
+      this_could_be_dashboard: Este podría ser tu tablero si tu
+      joined_public_lab: te unes a Public Lab
+    dashboard:
+      from_blog: Desde el <a href='%{url}'>Blog de Public Lab</a>
+      by: por
+    _wiki:
+      shared_knowledge_base: Una <a href='%{url}'>base de conocimiento compartido</a>
+        para la ciencia comunitaria
+      search: Buscar...
+      new_page: Nueva página
+      new_page_by: Nueva página por
+      new_edit_by: Nueva edición por
+      changes: cambios
+      more: Más
+    _node_moderate:
+      first_time_post: 'Moderar primera publicación '
+      approve: Aprobar
+      spam: Spam
+      pending_approval: Pendiente de aprobación por los <a href='%{url}'>moderadores
+        comunitarios</a>. Por favor sea paciente!
+    _node_comment:
+      commented_on: comentado el
+      comments: comentarios
+    _node_question:
+      post_answer: Publica una pregunta
+      question: Pregunta
+    _activity:
+      activity: Actividad
+      share_work: Comparte tu trabajo
+      all_updates: Todas las actualizaciones
+      dropdown:
+        all: Todas
+        research_notes: Notas de investigación
+        questions: Preguntas
+        events: Eventos
+        comments: Comentarios
+        wiki: Wiki
+      from_other: otras
+      community_scientists: científicos comunitarios
+      past_week: la semana pasada
+      your_work: Tu trabajo
+    _sidebar:
+      wiki: Wiki
+      discussion_list: Listas de discusión
+      all: Todo
+      public_laboratory: Laboratorio Público
+      grassroots_mapping: Cartografía básica
+      spectrometry: Espectrometría
+      infrared: Infrarrojo
+      air_quality: Calidad del Aire
+      water_quality: Calidad del Agua
+      developers: Desarrolladores
+  layout:
+    _alerts:
+      request_access: Un sitio ha solicitado acceso con tu cuenta.
+      approve_or_deny: Aprueba o rechaza la solicitud
+    _footer:
+      getting_help:
+        report_bug: Reporta una falla o incidencia
+        email_working_group: Escribe al grupo de trabajo Web
+        publiclab_oss: PublicLab.org es <a href='%{url1}'>software libre o de código
+          abierto</a> - y <a href='%{url2}'>busca colaboradores</a>
+      links:
+        about: Acerca de
+        getting_started: Para empezar
+        licenses: Licencias
+        discussion_lists: Listas de discusión
+        site_statistics: Estadísticas del sitio
+        rss: RSS
+      license: Esta obra se encuentra bajo una licencia <a href='%{creative_commons_url}'>Creative
+        Commons Attribution-ShareAlike 3.0 Unported License</a>. Los diseños de hardware
+        en este sitio se publican bajo la licencia  <a href='%{cern_license_url}'>CERN
+        Open Hardware License 1.1</a>. Lea más sobre las <a href='%{publiclab_license_url}'>licencias
+        libres y abiertas</a> que usa Public Lab.
+      different_licenses: Algunas obras en este sitio podrían estar bajo otras licencias,
+        siempre que las mismas estén claramente indicada por sus autores.
+      font_use: Este sitio usa ampliamente la fuente tipográfica <a href='%{url}'>Junction</a>.
+      server_donation: PublicLab.org se hospeda gracias a una donación de espacio
+        de servidores por parte de <a href='%{url}'>Rackspace</a>.
+      language:
+        language_title: Idiomas
+  comments:
+    _edit:
+      uploading: Enviando...
+      drag_and_drop: Arrastre una imagen o archivo para añadir, o
+      choose_one: selecciona uno
+      upload_image: Subir imagen
+      preview: Previsualizar
+      cancel: Cancelar
+      publish: Publicar
+      logged_in: Sesión abierta como <b>%{username}</b>
+      formatting: Formato
+      notifications: Notificaciones
+      email_notifications: El autor, los comentaristas, y aquellos que hayan marcado
+        "me gusta" a esta nota recibirán notificaciones de correo electrónico
+    _form:
+      uploading: Cargando...
+      drag_and_drop: Arrastre y suelte una imagen o archivo, o
+      choose_one: elija una
+      upload_image: Cargar imagen
+      preview: Previsualizar
+      cancel: Cancelar
+      publish: Publicar
+      logged_in: Has ingresado como <b>%{username}</b>
+      formatting: Formato
+      notifications: Notificaciones
+      email_notifications: Los autores, comentadores, y aquellos que hayan puesto
+        "me gusta" a esta nota recibirán notificaciones por correo electrónico.
+  home:
+    _comments:
+      commented: comentado
+      read_more: Leer más
+  home_controller:
+    science_community: una comunidad de ciencia comunitaria Hágalo-Usted-Mismo (DIY)
+    environmental_investigation: una comunidad para la investigación ambiental artesanal
+    community_research: Investigación comunitaria

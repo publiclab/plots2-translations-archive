@@ -1,0 +1,10 @@
+zh:
+  notes:
+    _notes:
+      moderate_first_time_post: "管理第一次邮件"
+      approve: "批准"
+      span: "垃圾"
+      pending_approval: "等 <a href='%{url1}'>社会管理员</a>的批准。请等一下！"
+      last_edit_by: "最后篇改"
+      views: "视图"
+      read_more: "更多资料"

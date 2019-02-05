@@ -1,0 +1,7 @@
+es:
+  dashboard:
+    _node_moderate:
+      first_time_post: "Moderar primera publicación "
+      approve: "Aprobar"
+      spam: "Spam"
+      pending_approval: "Pendiente de aprobación por los <a href='%{url}'>moderadores comunitarios</a>. Por favor sea paciente!"

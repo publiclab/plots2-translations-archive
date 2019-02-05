@@ -1,0 +1,6 @@
+zh:
+  sidebar:
+    _events:
+      post_event: "上载事件"
+      local_events: "附近事件"
+      no_events: "没有事件"

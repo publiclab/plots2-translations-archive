@@ -1,0 +1,20 @@
+ko:
+  wiki:
+    revisions:
+      revisions_for: "<i>%{wiki}</i>에 대한 수정"
+      view: "보기"
+      edit: "수정"
+      revisions: "수정 내역"
+      table_content: |
+          <th>#</th>
+          <th>사용자</th>
+          <th>만들어진</th>
+          <th></th>
+          <th></th>
+          <th>실제 보기</th>
+      moderated: "승인됨"
+      current: "현재"
+      revert: "돌아가기"
+      are_you_sure: "확실하십니까?"
+      republish: "다시 게시"
+      comparing_revision: "<span id='older'>%{revision_1}</span> 수정을 <span id='newer'>%{revision_2}</span> 수정과 비교 중"

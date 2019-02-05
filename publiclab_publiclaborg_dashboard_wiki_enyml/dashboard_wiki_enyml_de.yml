@@ -1,0 +1,10 @@
+de:
+  dashboard:
+    _wiki:
+      shared_knowledge_base: "Ein <a href='%{url}'>kollaboratives Nachschlagewerk</a> für Gemeinschaftsforschung"
+      search: "Suche nach..."
+      new_page: "Neue Seite"
+      new_page_by: 'Neue Seite von'
+      new_edit_by: 'Neue Bearbeitung von'
+      changes: "Änderungen"
+      more: 'Mehr'

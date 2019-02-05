@@ -1,0 +1,17 @@
+zh:
+  notes:
+    index:
+      search_results_for: "关于<i style =“color：#aaa;”>％{params} </ i>的搜索结果"
+      advanced_search: "高级搜索"
+      notes_tagged_with: "标有<i style =“color：#aaa;”>％{params} </ i> 的笔记"
+      popular_research_notes: "热门研究笔记"
+      research_on: "通过<a href='%{url1}'>％{user_name} </a>对“％{tags}”的研究"
+      research_notes_and_wiki_edits_with_time: "％{count}条研究笔记和Wiki编辑开始于％{time}前"
+      research_by: "由<a href='%{url1}'>％{user_name} </a>进行的研究"
+      research_notes_and_wiki_edits: "％{count}研究笔记和wiki编辑"
+      starting_time: "开始 %{time} 前"
+      research_notes_ideas_and_documentation: "研究笔记<small class =“hidden-sm”>来自撰稿人的想法和文档</ small>"
+      recent: "刚"
+      popular: "热门"
+      liked: "喜欢"
+      wiki_pages: "百科<span class=\"hidden-sm\"> 的页</span>"

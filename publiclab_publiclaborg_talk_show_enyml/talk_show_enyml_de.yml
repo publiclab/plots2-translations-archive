@@ -1,0 +1,5 @@
+de:
+  talk:
+    show:
+      welcome: "Diskussionsseite für <a href='%{url1}'>%{page}</a> | Auf dieser Seite kannst Du simultan mit mehreren Leuten an einem Dokument arbeiten. <a href='%{url2}'>Lerne mehr darüber</a>"
+      try_direct_link: "Falls die Seite nicht korrekt dargestellt wird, <a href='%{url1}'>versuche es hier</a>"

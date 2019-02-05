@@ -1,0 +1,13 @@
+zh:
+  dashboard:
+    _sidebar:
+      wiki: "百科"
+      discussion_list: "讨论列表"
+      all: '全部'
+      public_laboratory: "公共实验室"
+      grassroots_mapping: "草根制图"
+      spectrometry: "光谱"
+      infrared: '红外线'
+      air_quality: "空气的质量"
+      water_quality: "水的质量"
+      developers: "开发者"

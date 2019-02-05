@@ -1,0 +1,21 @@
+es:
+  dashboard:
+    _header:
+      share_work: "Comparte tus trabajo"
+      dropdown:
+        share_research_note: "Comparte una nota de investigación"
+        ask_question: "Haz una pregunta"
+        post_event: "Publica un evento"
+        tell_story_blog: "Cuenta tu historia en el blog"
+      dashboard: "Tablero"
+      community_research: "Investigación comunitaria"
+      welcome: "Bienvenido"
+      notes: "notas"
+      and: "y"
+      wiki_edits: "ediciones de wiki"
+      posted_past_week: "publicados la semana pasada"
+      you_shared: "Has compartido"
+      research_note: "nota de investigación"
+      research_notes: "notas de investigación"
+      this_could_be_dashboard: "Este podría ser tu tablero si tu"
+      joined_public_lab: "te unes a Public Lab"

@@ -1,0 +1,20 @@
+ko:
+  wiki:
+    show:
+      page_has_no_tags: "이 페이지는 아직 태그가 없습니다; <a onClick='$('#taginput').focus()'>아래에 설명이 포함 된 태그를 추가하여</a> 다른 콘텐츠에 연결할 수 있도록 도와주세요."
+      revision_from: "이것은 %{time}에 수정 되었습니다."
+      view_all_revisions: "편집 내역 보기"
+      views: "뷰"
+      last_edited: "<a href='%{url1}'>%{author}</a>가 %{time}에 마지막으로 편집함"
+      shortlink: "짧은 링크"
+      view: "보기"
+      edit: "수정"
+      delete: "삭제"
+      are_you_sure_delete: "%{path}를 삭제 하시겠습니까? 모든 수정이 손실되고 이 작업을 취소 할 수 없습니다. 스팸 페이지 인 경우 전체 페이지를 삭제하기 전에 다른 내용을 덮어 쓰지 않았는지 확인하십시오."
+      talk: "말하기"
+      back_to_wiki: "<a href='%{url1}'>%{title}</a>로 돌아가기"
+      overview: "개요"
+      research: "연구"
+      wiki_pages: "위키 <span class=\"hidden-sm\">페이지</span>"
+      more_research: "\"%{tag}\"에 더 많은 연구를 볼 수 있습니다"
+      more_tag_research: "더 많은 \"%{tag}\" 연구"

@@ -1,0 +1,10 @@
+hi_IN:
+  wiki:
+    _wikis:
+      table_content: |
+          <th>शीर्षक</th>
+          <th>अंतिम संपादित</th>
+          <th>संपादन</th>
+          <th class="hidden-xs">पृष्ठदृश्य</th>
+      likes: 'पसंद'
+      by: 'द्वारा'

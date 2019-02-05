@@ -1,0 +1,5 @@
+ko:
+  dashboard:
+    _node_question:
+      post_answer: "답변 게시"
+      question: "질문"

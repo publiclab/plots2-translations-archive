@@ -1,0 +1,5 @@
+zh:
+  layout:
+    _alerts:
+      request_access: "网站已请求访问您的帐户。"
+      approve_or_deny: "批准或拒绝请求"

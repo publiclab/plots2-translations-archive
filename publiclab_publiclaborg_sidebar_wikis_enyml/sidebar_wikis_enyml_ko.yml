@@ -1,0 +1,7 @@
+ko:
+  sidebar:
+    _wikis:
+      updated_by: |
+          <a href='%{url1}'>%{author}</a>로부터
+          %{time} 전에 업데이트 됨
+      more: "더보기..."

@@ -1,0 +1,17 @@
+ko:
+  dashboard:
+    _activity:
+      activity: "활동 내역"
+      share_work: "작업 공유"
+      all_updates: "업데이트 전체보기"
+      dropdown:
+        all: "전체보기"
+        research_notes: "연구 노트"
+        questions: "질문"
+        events: "행사"
+        comments: "댓글"
+        wiki: "위키"
+      from_other: "다른 곳에서"
+      community_scientists: "커뮤니티 과학자"
+      past_week: "지난주에"
+      your_work: "내 작업"

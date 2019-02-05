@@ -1,0 +1,13 @@
+hi_IN:
+  dashboard:
+    _sidebar:
+      wiki: "विकी"
+      discussion_list: "चर्चा सूची"
+      all: 'सब'
+      public_laboratory: "सार्वजनिक प्रयोगशाला"
+      grassroots_mapping: "जमीनी स्तर पर मानचित्रण"
+      spectrometry: "स्पेक्ट्रोमेट्री"
+      infrared: 'इन्फ्रारेड'
+      air_quality: "हवा की गुणवत्ता"
+      water_quality: "पानी की गुणवत्ता"
+      developers: "विकसित करने वाले"

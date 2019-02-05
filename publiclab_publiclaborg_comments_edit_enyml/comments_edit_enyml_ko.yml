@@ -1,0 +1,14 @@
+ko:
+  comments:
+    _edit:
+      uploading: "업로드 중..."
+      drag_and_drop: "이미지 또는 파일을 추가하려면 끌어서 놓기"
+      choose_one: "하나를 선택하십시오"
+      upload_image: "이미지 업로드"
+      preview: "미리보기"
+      cancel: "취소"
+      publish: "게시"
+      logged_in: "<b>%{username}</b> 으로 로그인 했습니다"
+      formatting: "서식"
+      notifications: "알림"
+      email_notifications: "작성자, 댓글 작성자, 그리고 메모를 '좋아요'한 사용자들은 이메일 알림을 받게됩니다"

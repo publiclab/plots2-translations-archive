@@ -1,0 +1,13 @@
+ko:
+  dashboard:
+    _sidebar:
+      wiki: "위키"
+      discussion_list: "토의 목록"
+      all: '전체보기'
+      public_laboratory: "모두의 실험실"
+      grassroots_mapping: "Grassroots 매핑"
+      spectrometry: "분광법"
+      infrared: '적외선'
+      air_quality: "대기 질"
+      water_quality: "수질"
+      developers: "개발자"

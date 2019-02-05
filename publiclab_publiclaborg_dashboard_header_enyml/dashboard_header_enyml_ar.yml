@@ -1,0 +1,9 @@
+ar:
+  dashboard:
+    _header:
+      share_work: "انشر عملك"
+      dropdown:
+        ask_question: "اطرح سؤالا"
+        post_event: "انشر ايفينت"
+      welcome: "اهلا"
+      and: "و"

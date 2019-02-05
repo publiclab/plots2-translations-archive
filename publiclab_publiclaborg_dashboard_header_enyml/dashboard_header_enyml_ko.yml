@@ -1,0 +1,21 @@
+ko:
+  dashboard:
+    _header:
+      share_work: "작업 공유하기"
+      dropdown:
+        share_research_note: "연구 노트 공유하기"
+        ask_question: "질문하기"
+        post_event: "행사 게시하기"
+        tell_story_blog: "블로그에 귀하의 이야기를 게시해 주세요"
+      dashboard: "대시보드"
+      community_research: "커뮤니티 연구"
+      welcome: "환영합니다"
+      notes: "노트"
+      and: "그리고"
+      wiki_edits: "위키 편집 내역"
+      posted_past_week: "지난주에 게시 되었습니다."
+      you_shared: "내가 공유한 글:"
+      research_note: "연구 노트"
+      research_notes: "연구 노트"
+      this_could_be_dashboard: "내 대시보드 만들기:"
+      joined_public_lab: "Public Lab에 가입"

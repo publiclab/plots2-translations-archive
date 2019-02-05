@@ -1,0 +1,29 @@
+zh:
+  home:
+    dashboard:
+      welcome: '欢迎！'
+      need_help: '需要帮忙，想要分享想法，或找合作人？'
+      join_discussion_list: '加入一个专研或附近的Public Lab讨论'
+      no_research_note: "你还没有上载一个研究笔记--想"
+      sharing_work: "分享你的作品和你觉得兴趣的"
+      please: "请"
+      create_password: "为 PublicLab.org 网站制造密码"
+      older_site_deactive: "旧的 PublicLaboratory.org 网站不久会被拿下来"
+      coming_soon: "在以后会有"
+      revised_dashboard: "新的仪表"
+      try_it: "在这里试一试"
+      dashboard_main:
+        dashboard_title: '仪表板'
+        welcome: '欢迎'
+        notes: '笔记'
+        and: '和'
+        wiki_edits: '百科修改'
+        posted_last_week: '在上周上载'
+      nav_tabs:
+        recent: '刚'
+        activity: '活动'
+        comments: '评论'
+        liked: '“喜欢”'
+        subscriptions: '订阅'
+        lists: '目录'
+      read_more_research_notes: '看更多调查笔记'

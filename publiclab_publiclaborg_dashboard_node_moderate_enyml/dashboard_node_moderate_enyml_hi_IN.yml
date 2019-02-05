@@ -1,0 +1,7 @@
+hi_IN:
+  dashboard:
+    _node_moderate:
+      first_time_post: "मध्यम पहली बार पोस्ट:"
+      approve: "मंजूर"
+      spam: "स्पैम"
+      pending_approval: "<a href='%{url}'> समुदाय मध्यस्थों </a> द्वारा अनुमोदन के लिए लंबित। कृपया धैर्य रखें!"

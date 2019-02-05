@@ -1,0 +1,10 @@
+de:
+  wiki:
+    _wikis:
+      table_content: |
+          <th>Titel</th>
+          <th>Zuletzt bearbeitet</th>
+          <th>Revisionen</th>
+          <th class="hidden-xs">Aufrufe</th>
+      likes: 'Likes'
+      by: 'von'

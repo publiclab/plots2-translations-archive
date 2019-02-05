@@ -1,0 +1,20 @@
+de:
+  home:
+    subscriptions:
+      title: 'Abonnements'
+      up_to_date_emails: 'halten Dich auf dem Laufenden über Themen bei Public Lab. Du kannst zwischen der Benachrichtigung per Email oder als Kurzfassung wählen.'
+      manage_subscriptions: 'Meine Abonnements'
+      click_unfollow: 'Nicht mehr folgen'
+      following: 'Folge'
+      research_notes: 'allen Notzien'
+      subscribe_to: 'Abonniere'
+      all: 'alle'
+      notes: 'Notizen'
+      receive_mails: 'Empfange Emails für alle Research Notes'
+      enter_tags: 'Tags eingeben'
+      add: 'Hinzufügen'
+      tag: 'Tag'
+      options: 'Optionen'
+      share_subscription_link: 'Teile dieses Abonnement'
+      share: 'Teilen'
+      unsubscribe: 'Abbestellen'

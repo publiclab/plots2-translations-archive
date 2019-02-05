@@ -1,0 +1,20 @@
+de:
+  wiki:
+    revisions:
+      revisions_for: "Revisionen für <i>%{wiki}</i>"
+      view: "Ansehen"
+      edit: "Editieren"
+      revisions: "Revisionen"
+      table_content: |
+          <th>#</th>
+          <th>Nutzer</th>
+          <th>Erstellt</th>
+          <th></th>
+          <th></th>
+          <th>Rohdaten</th>
+      moderated: "MODERIERT"
+      current: "AKTUELL"
+      revert: "Wiederherstellen"
+      are_you_sure: "Bist Du sicher?"
+      republish: "Erneut Veröffentlichen"
+      comparing_revision: "Vergleiche Revision <span id='older'>%{revision_1}</span> mit Revision <span id='newer'>%{revision_2}</span>"

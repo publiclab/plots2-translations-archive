@@ -1,0 +1,20 @@
+zh:
+  layout:
+    _footer:
+      getting_help:
+        report_bug: "报告错误或问题"
+        email_working_group: "通过电子邮件发送Web工作组"
+        publiclab_oss: "PublicLab.org是<a href='%{url1}'>开源软件</a>和<a href='%{url2}'>寻找贡献者</a>"
+      links:
+        about: "关于"
+        getting_started: "入门"
+        licenses: "牌照"
+        discussion_lists: "讨论列表"
+        site_statistics: "网站统计"
+        rss: "RSS"
+      license: "本作品根据<a href='%{creative_commons_url}'> Creative Commons Attribution-ShareAlike 3.0 Unported License </a>授权。本网站上的硬件设计在<a href='%{cern_license_url}'> CERN开放硬件许可1.1 </a>下发布。有关公共实验室的<a href='%{publiclab_license_url}'>开源许可</a>的详情，请点击此处</a>。"
+      different_licenses: "本网站上的特定作品可能会根据不同的许可进行发布或专用，但前提是作者明确指出此类替代方法。"
+      font_use: "此网站广泛使用开放源代码字体<a href='%{url}'> Junction </a>。"
+      server_donation: "PublicLab.org是通过<a href='%{url}'> Rackspace </a>捐赠服务器空间托管的。"
+      language:
+        language_title: "语言"

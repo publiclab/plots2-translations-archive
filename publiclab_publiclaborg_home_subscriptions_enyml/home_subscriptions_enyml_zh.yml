@@ -1,0 +1,20 @@
+zh:
+  home:
+    subscriptions:
+      title: '订阅'
+      up_to_date_emails: '让你知道最近的Public Lab的消息。你可以选择用电邮或文摘收'
+      manage_subscriptions: '检查订阅'
+      click_unfollow: '取消关注'
+      following: '关注'
+      research_notes: '全部调查笔记'
+      subscribe_to: '订阅'
+      all: '全部'
+      notes: '笔记'
+      receive_mails: '对于全部调查笔记收电邮'
+      enter_tags: '输入标签'
+      add: '加'
+      tag: '标签'
+      options: '选项'
+      share_subscription_link: '分享这个订阅'
+      share: '分享'
+      unsubscribe: '取消订阅'

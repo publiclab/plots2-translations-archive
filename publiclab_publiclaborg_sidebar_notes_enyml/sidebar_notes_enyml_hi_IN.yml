@@ -1,0 +1,7 @@
+hi_IN:
+  sidebar:
+    _notes:
+      updated_by: |
+          %{time} समय पहले
+          <a href='%{url1}'>%{author_name}</a>के द्वारा नविनीकरण
+      more: "और"

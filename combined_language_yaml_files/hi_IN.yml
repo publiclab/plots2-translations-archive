@@ -1,0 +1,226 @@
+---
+hi_IN:
+  notes:
+    _comments:
+      comments: टिप्पणियाँ
+      post_comment: टिप्पणी पोस्ट करें
+    _comment:
+      commented: टिप्पणी
+      streak_title: "% {author} आग लगी है! % {streak_notes} नोट्स,% {streak_wiki}
+        \ विकि संपादन,% {streak_comments}  अंतिम में टिप्पणी %{streak_days} दिन"
+      are_you_sure: क्या आपको यकीन है?
+      please_exercise_caution: हटाने / दूसरों की टिप्पणियों मध्यस्थता में सावधानी
+        बरतें करें; इसे पूर्ववत नहीं किया जा सकता।
+      edit_comment: टिप्पणी संपादित करें
+      edit_placeholder: लेखक अपनी पोस्ट को निखारने में मदद करें, या साइट पर अन्य उपयोगी
+        जानकारी पर उन्हें इंगित करें। ईमेल द्वारा इस धागे के लिए उन्हें सूचित करने
+        के लिए @उपयोगकर्ता नाम से उन मेंशन
+  dashboard:
+    _node_wiki:
+      new_page_by: द्वारा नई पेज
+      new_edit_by: द्वारा नई संपादन
+      changes: परिवर्तन
+    _header:
+      share_work: अपने काम को बॉटना
+      dropdown:
+        share_research_note: अनुसंधान नोट्स को बॉटना
+        ask_question: प्रश्न पूछें
+        post_event: एक घटना पोस्ट करे
+        tell_story_blog: ब्लॉग पर अपनी कहानी बताओ
+      dashboard: डैशबोर्ड
+      community_research: सामुदायिक अनुसंधान
+      welcome: स्वागत
+      notes: टिप्पणियाँ
+      and: "\t\nऔर"
+      wiki_edits: विकी संपादन
+      posted_past_week: पिछले सप्ताह में नियुक्त!
+      you_shared: आपने साझा किया है
+      research_note: शोध पत्र
+      research_notes: शोध के पत्र
+      this_could_be_dashboard: यह आपका डैशबोर्ड हो सकता है अगर आप
+      joined_public_lab: पब्लिक लैब में शामिल हो गए
+    dashboard:
+      from_blog: From the <a href='%{url}'>Public Lab Blog</a>
+      by: द्वारा
+    _wiki:
+      shared_knowledge_base: समुदाय विज्ञान के लिए एक <a href='%{url}'> साझा ज्ञान
+        के आधार </a>
+      search: निम्न को खोजें...
+      new_page: नया पृष्ठ
+      new_page_by: द्वारा नई पेज
+      new_edit_by: द्वारा नई संपादित
+      changes: परिवर्तन
+      more: अधिक
+    _node_moderate:
+      first_time_post: 'मध्यम पहली बार पोस्ट:'
+      approve: मंजूर
+      spam: स्पैम
+      pending_approval: "<a href='%{url}'> समुदाय मध्यस्थों </a> द्वारा अनुमोदन के
+        लिए लंबित। कृपया धैर्य रखें!"
+    _node_comment:
+      commented_on: पर टिप्पणी की है
+      comments: टिप्पणियाँ
+    _node_question:
+      post_answer: एक उत्तर पोस्ट करे
+      question: प्रश्न
+    _activity:
+      activity: कार्यकलाप
+      share_work: अपने काम को बॉटना
+      all_updates: सभी अपडेट
+      dropdown:
+        all: सभी
+        research_notes: अनुसंधान नोट्स
+        questions: प्रशन
+        events: आयोजन
+        comments: टिप्पणियाँ
+        wiki: विकी
+      from_other: अन्य से
+      community_scientists: समुदाय वैज्ञानिक
+      past_week: पिछले सप्ताह में
+      your_work: तुम्हारा काम
+    _sidebar:
+      wiki: विकी
+      discussion_list: चर्चा सूची
+      all: सब
+      public_laboratory: सार्वजनिक प्रयोगशाला
+      grassroots_mapping: जमीनी स्तर पर मानचित्रण
+      spectrometry: स्पेक्ट्रोमेट्री
+      infrared: इन्फ्रारेड
+      air_quality: हवा की गुणवत्ता
+      water_quality: पानी की गुणवत्ता
+      developers: विकसित करने वाले
+  sidebar:
+    _author:
+      recent_tags_for_author: "<a href='%{url1}'>%{author}</a>के लिये नविन टैग"
+    _notes:
+      updated_by: |
+        %{time} समय पहले
+        <a href='%{url1}'>%{author_name}</a>के द्वारा नविनीकरण
+      more: और
+  home:
+    dashboard:
+      welcome: स्वागत!
+      need_help: मदद की जरूरत है एक नया विचार प्रारंभ करने के लिए, या सहयोगियों को
+        खोज रहे हैं?
+      join_discussion_list: एक सामयिक या स्थानीय पब्लिक लैब चर्चा की सूची में शामिल
+        हो
+      no_research_note: आप एक शोध पत्र अभी तक तैनात नहीं किया है -- विचार करें
+      sharing_work: अपने काम और हितों को बांटे
+      please: कृपया
+      create_password: नई PublicLab.org वेबसाइट के लिए एक पासवर्ड बनाए
+      older_site_deactive: पुराना PublicLaboratory.org जल्द ही सेवानिवृत्त हो जाएगा।
+      coming_soon: जल्द आ रहा है
+      revised_dashboard: एक संशोधित डैशबोर्ड!
+      try_it: इसे यहाँ से बाहर की कोशिश करो
+      dashboard_main:
+        dashboard_title: डैशबोर्ड
+        welcome: स्वागत
+        notes: टिप्पणियाँ
+        and: और
+        wiki_edits: विकि संपादन
+        posted_last_week: पिछले सप्ताह में नियुक्त थे।
+      nav_tabs:
+        recent: हाल का
+        activity: कार्यकलाप
+        comments: टिप्पणियाँ
+        liked: पसंद किया
+        subscriptions: सदस्यताएँ
+        lists: सूचियाँ
+      read_more_research_notes: और अधिक शोध नोटों को पढ़ें
+    home:
+      public_lab_community: एक समुदाय जहाँ आप पर्यावरण संबंधी चिंताओं को जांच करने
+        के लिए सीख सकते हैं। सस्ती DIY तकनीक का उपयोग करना, हम बदलने के लिए कैसे लोगों
+        को पर्यावरण, सामाजिक और राजनीतिक दृष्टि से दुनिया को देखने की तलाश करते है।
+      join_now: Join now
+      the_problem:
+        title: I. समस्या
+        lack_access: समुदाय के लिए उपयोग की कमी
+        tools: उपकरण और तकनीक
+        need_participation: फैसलों में भाग लेने के लिए विशेष रूप से जब पर्यावरण के
+          खतरों का सामना कर रहे हैं, उनके समुदायों के बारे में बनाया जा रहा है की
+          जरूरत है।
+      the_collaboration:
+        title: II. सहयोग
+        open_network: हम एक खुला नेटवर्क हैं
+        organizers: समुदाय के आयोजकों
+        create_low_cost_solutions: शिक्षकों, प्रौद्योगिकीविदों और शोधकर्ताओं के लिए
+          कम लागत के समाधान बनाने के लिए काम
+        monitoring: वायु, जल और भूमि की निगरानी
+        discover: खोजने, सहयोग और योगदान करने के लिए
+        locally_important_matters: स्थानीय रूप से महत्वपूर्ण मामलों
+        global_community: एक वैश्विक समुदाय के समर्थन के साथ।
+      the_solution:
+        title: III. समाधान
+        join_us_today: आज हमसे जुड़ें, हम एक साथ काम करने का निर्माण और DIY कार्यकर्ताओं
+          और खोजकर्ता सरल उपकरण का उपयोग कर निर्माण करने के लिए एक समुदाय को प्रेरित
+          करने के लिए
+        growing_data: डेटा की बढ़ती संरचना
+        local_environments: हमारे स्थानीय वातावरण के बारे में।
+    _comments:
+      commented: टिप्पणी
+      read_more: अधिक पढ़ें
+    subscriptions:
+      title: सदस्यताएँ
+      manage_subscriptions: सदस्यता प्रबंधित करें
+      click_unfollow: अनुसरण के लिए क्लिक करें
+      following: निम्नलिखित
+      research_notes: सभी अनुसंधान नोटों
+      subscribe_to: की सदस्यता लेना
+      all: सब
+      notes: टिप्पणियाँ
+      receive_mails: सभी अनुसंधान नोट्स के लिए ईमेल प्राप्त करें।
+      enter_tags: टैग दर्ज
+      add: जोड़ना
+      tag: टैग
+  layout:
+    _alerts:
+      request_access: एक वेबसाइट ने अापके खाते तक पहुंच का अनुरोध किया है।
+      approve_or_deny: अनुरोध को स्वीकृत या इनकार करे
+    _footer:
+      links:
+        getting_started: शुरू करना
+  home_controller:
+    science_community: एक DIY पर्यावरण विज्ञान समुदाय
+    environmental_investigation: DIY पर्यावरणीय जांच के लिए एक समुदाय
+    community_research: सामुदायिक अनुसंधान
+  comments:
+    _edit:
+      uploading: अपलोड हो रहा है ...
+      drag_and_drop: खींचें और छोड़ दे एक छवि या फ़ाइल को जोड़ने के लिए, या
+      choose_one: एक चुनो
+      upload_image: तस्वीर डालिये
+      preview: पूर्वावलोकन
+      cancel: रद्द करें
+      publish: प्रकाशित करें
+      logged_in: "<b>%{username}</b> के रूप में लॉग इन किया"
+      formatting: स्वरूपण
+      notifications: सूचनाएं
+      email_notifications: लेखक, टिप्पणीकर्ताओं, और जो इस टिप्पणी को "पसंद" करते हैं,
+        ईमेल द्वारा सूचनाएं प्राप्त करे
+    _form:
+      uploading: अपलोड हो रहा है ...
+      drag_and_drop: खींचें और छोड़ दे एक छवि को जोड़ने के लिए
+      choose_one: एक चुनो
+      upload_image: तस्वीर डालिये
+      preview: पूर्वावलोकन
+      cancel: रद्द करें
+      publish: प्रकाशित करें
+      logged_in: "<b>%{उपयोगकर्ता नाम}</b> के रूप में लॉग इन किया"
+      formatting: स्वरूपण
+      notifications: सूचनाएं
+      email_notifications: लेखक, टिप्पणीकर्ताओं, और जो इस टिप्पणी को "पसंद" करते हैं,
+        ईमेल द्वारा सूचनाएं प्राप्त करे
+  js:
+    dashboard:
+      selected_updates: चुने गए अपडेट
+      none: कोई नहीं
+      all_updates: सभी अपडेट
+  wiki:
+    _wikis:
+      table_content: |
+        <th>शीर्षक</th>
+        <th>अंतिम संपादित</th>
+        <th>संपादन</th>
+        <th class="hidden-xs">पृष्ठदृश्य</th>
+      likes: पसंद
+      by: द्वारा

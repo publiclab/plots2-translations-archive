@@ -1,0 +1,214 @@
+---
+ko:
+  questions:
+    index:
+      explanation: Public Lab 커뮤니티에 환경 탐사에 대한 질문을 하세요.
+  dashboard:
+    _node_wiki:
+      new_page_by: '새 페이지 작성자:'
+      new_edit_by: 새 편집
+      changes: 변경 사항
+    _header:
+      share_work: 작업 공유하기
+      dropdown:
+        share_research_note: 연구 노트 공유하기
+        ask_question: 질문하기
+        post_event: 행사 게시하기
+        tell_story_blog: 블로그에 귀하의 이야기를 게시해 주세요
+      dashboard: 대시보드
+      community_research: 커뮤니티 연구
+      welcome: 환영합니다
+      notes: 노트
+      and: 그리고
+      wiki_edits: 위키 편집 내역
+      posted_past_week: 지난주에 게시 되었습니다.
+      you_shared: '내가 공유한 글:'
+      research_note: 연구 노트
+      research_notes: 연구 노트
+      this_could_be_dashboard: '내 대시보드 만들기:'
+      joined_public_lab: Public Lab에 가입
+    dashboard:
+      from_blog: "<a href='%{url}'>Public Lab 블로그</a>에서"
+      by: 으로
+    _wiki:
+      shared_knowledge_base: 커뮤니티 과학을 위한 <a href='%{url}'>지식 공유 웹사이트</a>
+      search: 찾기...
+      new_page: 새 페이지
+      new_page_by: '새 페이지 작성자:'
+      new_edit_by: '새 편집 작성자:'
+      changes: 변경 사항
+      more: 더보기
+    _node_moderate:
+      first_time_post: '첫 게시물 중재:'
+      approve: 승인
+      spam: 스팸
+      pending_approval: "<a href='%{url}'> 커뮤니티 운영자 </a>의 승인 대기 중입니다. 기다려주십시오!"
+    _node_comment:
+      commented_on: 댓글을 단
+      comments: 댓글
+    _node_question:
+      post_answer: 답변 게시
+      question: 질문
+    _activity:
+      activity: 활동 내역
+      share_work: 작업 공유
+      all_updates: 업데이트 전체보기
+      dropdown:
+        all: 전체보기
+        research_notes: 연구 노트
+        questions: 질문
+        events: 행사
+        comments: 댓글
+        wiki: 위키
+      from_other: 다른 곳에서
+      community_scientists: 커뮤니티 과학자
+      past_week: 지난주에
+      your_work: 내 작업
+    _sidebar:
+      wiki: 위키
+      discussion_list: 토의 목록
+      all: 전체보기
+      public_laboratory: 모두의 실험실
+      grassroots_mapping: Grassroots 매핑
+      spectrometry: 분광법
+      infrared: 적외선
+      air_quality: 대기 질
+      water_quality: 수질
+      developers: 개발자
+  home:
+    dashboard:
+      welcome: 환영합니다!
+      need_help: 도움이 필요하거나 아이디어를 떠올리거나 공동 작업자를 찾고 싶습니까?
+      join_discussion_list: 주제별 또는 지역별 Public Lab 토론 목록에 가입
+      no_research_note: 아직 연구 노트를 게시하지 않았습니다
+      sharing_work: 작업과 관심사 공유하기
+      please: 꼭
+      create_password: 새로운 PublicLab.org 웹 사이트를 위한 패스워드를 만드십시오.
+      older_site_deactive: 오래된 PublicLaboratory.org는 곧 닫힐 것입니다.
+      coming_soon: 곧 출시 예정
+      revised_dashboard: 수정 된 대시보드
+      try_it: 사용해 보세요
+      dashboard_main:
+        dashboard_title: 대시보드
+        welcome: 환영합니다
+        notes: 노트
+        and: 그리고
+        wiki_edits: 위키 편집 내역
+        posted_last_week: 지난주에 게시 되었습니다.
+      nav_tabs:
+        recent: 최근
+        activity: 활동
+        comments: 댓글
+        liked: 좋아요한 게시물
+        subscriptions: 구독
+        lists: 목록
+      read_more_research_notes: 연구 노트 더보기
+    _comments:
+      commented: 댓글을 달았습니다
+      read_more: 더보기
+  notes:
+    _notes:
+      moderate_first_time_post: '첫 게시물 중재:'
+      approve: 승인
+      span: 스팸
+      pending_approval: "<a href='%{url1}'> 커뮤니티 운영자 </a>의 승인 대기 중입니다. 기다려주십시오!"
+      last_edit_by: 가장 최근 편집
+      views: 뷰
+      read_more: 더보기
+    _responses:
+      post_response: 답변을 게시하세요
+      responses: 답변
+  home_controller:
+    science_community: DIY 환경 과학 공동체
+    environmental_investigation: DIY 환경 조사를 위한 커뮤니티
+    community_research: 커뮤니티 연구
+  sidebar:
+    _wikis:
+      updated_by: |
+        <a href='%{url1}'>%{author}</a>로부터
+        %{time} 전에 업데이트 됨
+      more: 더보기...
+  comments:
+    _edit:
+      uploading: 업로드 중...
+      drag_and_drop: 이미지 또는 파일을 추가하려면 끌어서 놓기
+      choose_one: 하나를 선택하십시오
+      upload_image: 이미지 업로드
+      preview: 미리보기
+      cancel: 취소
+      publish: 게시
+      logged_in: "<b>%{username}</b> 으로 로그인 했습니다"
+      formatting: 서식
+      notifications: 알림
+      email_notifications: 작성자, 댓글 작성자, 그리고 메모를 '좋아요'한 사용자들은 이메일 알림을 받게됩니다
+    _form:
+      uploading: 업로드 중...
+      drag_and_drop: 이미지 또는 파일을 추가하려면 끌어서 놓기
+      choose_one: 하나를 선택하십시오
+      upload_image: 이미지 업로드
+      preview: 미리보기
+      cancel: 취소
+      publish: 게시
+      logged_in: "<b>%{username}</b> 으로 로그인 했습니다"
+      formatting: 서식
+      notifications: 알림
+      email_notifications: 작성자, 댓글 작성자, 그리고 메모를 '좋아요'한 사용자들은 이메일 알림을 받게됩니다
+  wiki:
+    show:
+      page_has_no_tags: 이 페이지는 아직 태그가 없습니다; <a onClick='$('#taginput').focus()'>아래에
+        설명이 포함 된 태그를 추가하여</a> 다른 콘텐츠에 연결할 수 있도록 도와주세요.
+      revision_from: 이것은 %{time}에 수정 되었습니다.
+      view_all_revisions: 편집 내역 보기
+      views: 뷰
+      last_edited: "<a href='%{url1}'>%{author}</a>가 %{time}에 마지막으로 편집함"
+      shortlink: 짧은 링크
+      view: 보기
+      edit: 수정
+      delete: 삭제
+      are_you_sure_delete: "%{path}를 삭제 하시겠습니까? 모든 수정이 손실되고 이 작업을 취소 할 수 없습니다. 스팸
+        페이지 인 경우 전체 페이지를 삭제하기 전에 다른 내용을 덮어 쓰지 않았는지 확인하십시오."
+      talk: 말하기
+      back_to_wiki: "<a href='%{url1}'>%{title}</a>로 돌아가기"
+      overview: 개요
+      research: 연구
+      wiki_pages: 위키 <span class="hidden-sm">페이지</span>
+      more_research: '"%{tag}"에 더 많은 연구를 볼 수 있습니다'
+      more_tag_research: 더 많은 "%{tag}" 연구
+    revisions:
+      revisions_for: "<i>%{wiki}</i>에 대한 수정"
+      view: 보기
+      edit: 수정
+      revisions: 수정 내역
+      table_content: |
+        <th>#</th>
+        <th>사용자</th>
+        <th>만들어진</th>
+        <th></th>
+        <th></th>
+        <th>실제 보기</th>
+      moderated: 승인됨
+      current: 현재
+      revert: 돌아가기
+      are_you_sure: 확실하십니까?
+      republish: 다시 게시
+      comparing_revision: "<span id='older'>%{revision_1}</span> 수정을 <span id='newer'>%{revision_2}</span>
+        수정과 비교 중"
+    _wikis:
+      table_content: |
+        <th>제목</th>
+        <th>최근 편집 내역</th>
+        <th>편집 내역</th>
+        <th class="hidden-xs">페이지 뷰</th>
+      likes: 좋아요
+      by: 으로부터
+  users:
+    info:
+      additonal_information: 추가 정보
+    likes:
+      wiki_liked_by: '위키 페이지를 좋아하는 사람:'
+      more: 더
+      liked_by: 좋아요를 한 사람
+      updated: 업데이트 된
+  tag:
+    _tagging:
+      enter_tags: 태그를 입력하세요

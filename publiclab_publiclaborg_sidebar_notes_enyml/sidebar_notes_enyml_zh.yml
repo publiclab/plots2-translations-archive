@@ -1,0 +1,7 @@
+zh:
+  sidebar:
+    _notes:
+      updated_by: |
+          更新 %{time} 前
+          由 <a href='%{url1}'>%{author_name}</a>
+      more: "其他"

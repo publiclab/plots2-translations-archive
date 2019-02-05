@@ -1,0 +1,5 @@
+es:
+  dashboard:
+    _node_question:
+      post_answer: "Publica una pregunta"
+      question: "Pregunta"

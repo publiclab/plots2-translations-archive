@@ -1,0 +1,99 @@
+---
+ar:
+  home:
+    dashboard:
+      welcome: اهلا
+      sharing_work: شارك بعملك واهتماماتك
+      please: فضلا
+      coming_soon: قريبا
+      dashboard_main:
+        welcome: اهلا
+      nav_tabs:
+        comments: التعليقات
+    home:
+      join_now: انضم الان
+      the_problem:
+        title: أ. المشكلة
+      the_solution:
+        title: ج. الحل
+  dashboard:
+    _header:
+      share_work: انشر عملك
+      dropdown:
+        ask_question: اطرح سؤالا
+        post_event: انشر ايفينت
+      welcome: اهلا
+      and: و
+    _wiki:
+      search: ابحث عن...
+      new_page: صفحة جديدة
+      new_page_by: صفحة جديدة بواسطة
+      new_edit_by: تعديل جديد بواسطة
+      changes: التغيرات
+      more: المزيد
+    _node_question:
+      post_answer: انشر اجابة
+      question: سؤال
+  comments:
+    _edit:
+      uploading: جاري الرفع...
+      choose_one: اختر واحد
+      upload_image: ارفع صورة
+      preview: اظهر
+      cancel: الغاء
+      publish: نشر
+      notifications: الاشعارات
+    _form:
+      uploading: جاري الرفع...
+      choose_one: اختر واحد
+      upload_image: ارفع صورة
+      preview: اظهر
+      cancel: الغاء
+      publish: نشر
+  layout:
+    _header:
+      projects:
+        projects_title: المشاريع
+        research:
+          research_title: الابحاث
+          tools: الادوات
+          places: الاماكن
+          comments: التعليقات الحالية
+      search: البحث
+      about:
+        about_title: عن
+        stories: القصص
+        blog: المدونة
+        about_public_lab: عن بابليك لاب
+        team: فريق غير ربحي
+        organizers: المنظمين
+        fund: كيف نمول
+        press_and_media: الصحافة والاعلام
+        contact: تواصل مع فريق العمل
+      get_involved:
+        get_involved_title: شارك
+        getting_started: ابدء
+        join: انضم الى الموقع الالكتروني
+        new_projects: ابدء مشاريع جديدة
+        organizer: اصبح منظم
+      data:
+        data_title: البيانات
+        archive: ارشيف بابليك لاب
+        web_tools:
+          web_tools_title: ادوات الويب
+      donate: تبرع
+      store: المتجر
+      join: انضم
+      dashboard: لوحة القيادة
+      profile: الملف الشخصي
+      edit_profile: عدل ملفك الشخصي
+      logout: تسجيل الخروج
+      login:
+        login_title: تسجيل الدخول
+        username: اسم المستخدم
+        password: كلمة السر
+        remember_me: تذكرني
+        sign_up: التسجيل
+        reset_password: اعادة كلمة السر الخاصة بك
+      language:
+        language_title: اللغة

@@ -1,0 +1,21 @@
+zh:
+  dashboard:
+    _header:
+      share_work: "分享作品"
+      dropdown:
+        share_research_note: "分享调查笔记"
+        ask_question: "问问题"
+        post_event: "上载事件"
+        tell_story_blog: "在博客上分享你的故事"
+      dashboard: "仪表板"
+      community_research: "社区研究"
+      welcome: "欢迎"
+      notes: "笔记"
+      and: "和"
+      wiki_edits: "百科修改"
+      posted_past_week: "在上周上载"
+      you_shared: "你分享了"
+      research_note: "调查笔记"
+      research_notes: "调查笔记"
+      this_could_be_dashboard: "你可以拥有这个仪表板如果你"
+      joined_public_lab: "加入Public Lab"

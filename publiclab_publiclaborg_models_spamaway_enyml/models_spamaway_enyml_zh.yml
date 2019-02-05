@@ -1,0 +1,19 @@
+zh:
+  spamaway:
+    human:
+      statement1: '我是一个人。'
+      statement2: '我有一颗心'
+      statement3: '我吃食物。'
+      statement4: '我住在地球上。'
+      statement5: '我是一个有机体。'
+      statement6: '我喝水'
+    robot:
+      statement1: '我是一个机器人。'
+      statement2: '我是一个中央处理单元。'
+      statement3: '我是一台电脑。'
+      statement4: '我是一个算法。'
+      statement5: '我住在电脑里。'
+      statement6: '我在这里写广告。'
+    errors:
+      please_read_instructions: "请仔细阅读最后一个框中的说明。"
+      not_a_real_person: "- 它似乎不是你是一个真正的人！如果您不同意或遇到问题，请参阅'https://publiclab.org/wiki/registration-test' 。"

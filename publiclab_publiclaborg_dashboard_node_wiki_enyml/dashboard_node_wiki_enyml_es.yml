@@ -1,0 +1,6 @@
+es:
+  dashboard:
+    _node_wiki:
+      new_page_by: 'Nueva página por'
+      new_edit_by: 'Nueva edición de'
+      changes: 'Cambios'

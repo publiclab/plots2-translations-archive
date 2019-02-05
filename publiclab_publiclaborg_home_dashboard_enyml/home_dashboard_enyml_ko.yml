@@ -1,0 +1,29 @@
+ko:
+  home:
+    dashboard:
+      welcome: '환영합니다!'
+      need_help: '도움이 필요하거나 아이디어를 떠올리거나 공동 작업자를 찾고 싶습니까?'
+      join_discussion_list: '주제별 또는 지역별 Public Lab 토론 목록에 가입'
+      no_research_note: "아직 연구 노트를 게시하지 않았습니다"
+      sharing_work: "작업과 관심사 공유하기"
+      please: "꼭"
+      create_password: "새로운 PublicLab.org 웹 사이트를 위한 패스워드를 만드십시오."
+      older_site_deactive: "오래된 PublicLaboratory.org는 곧 닫힐 것입니다."
+      coming_soon: "곧 출시 예정"
+      revised_dashboard: "수정 된 대시보드"
+      try_it: "사용해 보세요"
+      dashboard_main:
+        dashboard_title: '대시보드'
+        welcome: '환영합니다'
+        notes: '노트'
+        and: '그리고'
+        wiki_edits: '위키 편집 내역'
+        posted_last_week: '지난주에 게시 되었습니다.'
+      nav_tabs:
+        recent: '최근'
+        activity: '활동'
+        comments: '댓글'
+        liked: '좋아요한 게시물'
+        subscriptions: '구독'
+        lists: '목록'
+      read_more_research_notes: '연구 노트 더보기'

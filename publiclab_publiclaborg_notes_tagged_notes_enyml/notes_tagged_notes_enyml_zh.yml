@@ -1,0 +1,9 @@
+zh:
+  notes:
+    _tagged_notes:
+      by_author_time_ago: |
+          从 <a href='%{url1}'>%{tauthor}</a>
+          | %{time} 前
+      views: "视图"
+      read_more: "更多资料"
+      spam: "垃圾"

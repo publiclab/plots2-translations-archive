@@ -1,0 +1,9 @@
+zh:
+  tag:
+    contributors:
+      contributors_for: "为<i style=\"color:#aaa;\">%{tag_name}</i>的贡献者"
+      contributions_over_past_year: "上面：去年的贡献"
+      notes_and_wiki_contributions: "％{users}人提供了％{笔记}研究笔记和％{wikis}个标有“％{tag_name}”的wiki页面</ i>"
+      following: "关注"
+      unfollow: "取消关注"
+      follow: "关注"

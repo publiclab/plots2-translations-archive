@@ -1,0 +1,12 @@
+it:
+  dashboard:
+    _activity:
+      activity: "Attività"
+      share_work: "Condividi il tuo lavoro"
+      dropdown:
+        research_notes: "Note sulla ricerca"
+        questions: "Domande"
+        events: "Eventi"
+        comments: "Commenti"
+        wiki: "Wiki"
+      your_work: "Il tuo lavoro"

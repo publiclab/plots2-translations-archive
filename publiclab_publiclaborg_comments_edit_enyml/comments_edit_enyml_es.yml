@@ -1,0 +1,14 @@
+es:
+  comments:
+    _edit:
+      uploading: "Enviando..."
+      drag_and_drop: "Arrastre una imagen o archivo para añadir, o"
+      choose_one: "selecciona uno"
+      upload_image: "Subir imagen"
+      preview: "Previsualizar"
+      cancel: "Cancelar"
+      publish: "Publicar"
+      logged_in: "Sesión abierta como <b>%{username}</b>"
+      formatting: "Formato"
+      notifications: "Notificaciones"
+      email_notifications: "El autor, los comentaristas, y aquellos que hayan marcado \"me gusta\" a esta nota recibirán notificaciones de correo electrónico"

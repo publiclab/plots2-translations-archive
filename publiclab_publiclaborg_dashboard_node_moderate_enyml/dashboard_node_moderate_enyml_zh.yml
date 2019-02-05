@@ -1,0 +1,7 @@
+zh:
+  dashboard:
+    _node_moderate:
+      first_time_post: "管理第一次的评论"
+      approve: "批准"
+      spam: "垃圾"
+      pending_approval: "等{社会管理员}的批准。请等一下！"

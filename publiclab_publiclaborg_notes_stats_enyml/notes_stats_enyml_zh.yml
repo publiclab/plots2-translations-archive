@@ -1,0 +1,32 @@
+zh:
+  notes:
+    stats:
+      about_this_page: |+
+          <h4>关于此页</ h4>
+
+          <p>Public Lab建立在社区成员的贡献之上，这个网站代表了我们共同的开源工作。</ p>
+
+      contributors_statistics: "贡献者统计信息"
+      looking_back: "回顾<i>％{time} </ i>"
+      try_time_further_back: |
+          尝试<a href='%{url1}'>一年</a>，
+          <a href='%{url2}'>一个月</a>，或者
+          <a href ='％{url3} '一周</a>
+          回去.
+      notes_and_wiki_edits_past_week: |
+          在过去一周内发布的<a href='%{url1}'>％{note_count}笔记</a>
+          和<a href='%{url2}'>％{wiki_count} Wiki编辑</a>
+      people_joined_past_week: "在过去一周加入了<b>％{people_count}人</ b>。"
+      notes_and_wiki_edits_past_month: |
+          在过去一个月发布的<a href='%{url1}'>％{note_count}笔记</a>
+          和<a href='%{url2}'>％{wiki_count} Wiki编辑</a>
+      people_joined_past_month: "在过去一个月内，有<b>％{people_count}人</ b>加入。"
+      research_notes_posted_by_contributors: "％{note_count}研究笔记已由％{contribut_count}个贡献者发布，因为％{time} 前"
+      notes_per_week_past_year: "过去一年中每周的收入为％{note_count}。"
+      note_posting_52_weeks: "注意过去52周的帖子"
+      wiki_pages_posted: "％{count}个wiki页面已发布，共"
+      wiki_page_posting_52_weeks: "Wiki上载页面过去52周"
+      comments_posted: "％{count}条评论已发布，共"
+      comments_posted_52_weeks: "评论发布为过去52周"
+      wiki_page_edits: "％{count}个wiki页面已编辑，共"
+      edits_per_week: "过去一年每周％{count}次编辑"

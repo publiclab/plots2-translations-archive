@@ -1,0 +1,10 @@
+hi_IN:
+  dashboard:
+    _wiki:
+      shared_knowledge_base: "समुदाय विज्ञान के लिए एक <a href='%{url}'> साझा ज्ञान के आधार </a>"
+      search: "निम्न को खोजें..."
+      new_page: "नया पृष्ठ"
+      new_page_by: 'द्वारा नई पेज'
+      new_edit_by: 'द्वारा नई संपादित'
+      changes: "परिवर्तन"
+      more: 'अधिक'

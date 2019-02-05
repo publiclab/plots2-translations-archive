@@ -1,0 +1,16 @@
+de:
+  home:
+    dashboard:
+      need_help: 'Du brauchst Hilfe, willst eine Idee voranbringen oder Mitstreiter finden?'
+      join_discussion_list: 'Tritt einer thematischen oder lokalen Public Lab Diskussionsliste bei'
+      no_research_note: "Du hast noch keine Research Note veröffentlicht -- "
+      sharing_work: "teile Deine Werke und Interessen"
+      please: "Bitte"
+      create_password: "erstelle ein Passwort für die neue PublicLab.org Seite"
+      older_site_deactive: "die alte Website (PublicLaboratory.org) wird bald deaktiviert."
+      dashboard_main:
+        welcome: 'Willkommen'
+        notes: 'Notizen'
+        and: 'und'
+        wiki_edits: 'Änderungen im Wiki'
+        posted_last_week: 'wurden in der letzten Woche veröffentlicht.'

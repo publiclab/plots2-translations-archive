@@ -1,0 +1,7 @@
+ko:
+  users:
+    likes:
+      wiki_liked_by: "위키 페이지를 좋아하는 사람:"
+      more: "더"
+      liked_by: "좋아요를 한 사람"
+      updated: "업데이트 된"

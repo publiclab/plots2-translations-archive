@@ -1,0 +1,5 @@
+hi_IN:
+  dashboard:
+    dashboard:
+      from_blog: "From the <a href='%{url}'>Public Lab Blog</a>"
+      by: "द्वारा"

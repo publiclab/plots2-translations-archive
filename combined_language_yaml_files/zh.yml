@@ -1,0 +1,584 @@
+---
+zh:
+  language: 英文
+  date:
+    abbr_day_names:
+    - Sun
+    - Mon
+    - Tue
+    - Wed
+    - Thu
+    - Fri
+    - Sat
+    abbr_month_names:
+    - 
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+    day_names:
+    - Sunday
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+    formats:
+      default: "%Y-%m-%d"
+      long: "%B %d, %Y"
+      short: "%b %d"
+    month_names:
+    - 
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+    order:
+    - :年
+    - :月
+    - :日
+  datetime:
+    time_ago_in_words:
+      about_x_hours:
+        other: 在 %{count} 小时前
+      about_x_months:
+        other: 在 %{count} 月前
+      about_x_years:
+        other: 在 %{count} 年前
+      almost_x_years:
+        other: 大概 %{count} 年前
+      half_a_minute: 半分钟前
+      less_than_x_minutes:
+        other: 少过 %{count} 分钟前
+      less_than_x_seconds:
+        other: 少过 %{count} 分秒前
+      over_x_years:
+        other: 超过 %{count} 年前
+      x_days:
+        other: " %{count} 天前"
+      x_minutes:
+        other: " %{count} 分钟前"
+      x_months:
+        other: "%{count} 月前"
+      x_seconds:
+        other: " %{count} 分秒前"
+    prompts:
+      day: 天
+      hour: 小时
+      minute: 分钟
+      month: 月
+      second: 分秒
+      year: 年
+  questions:
+    index:
+      explanation: 向Public Lab社区提问，帮助您进行环境探索。
+  notes:
+    _comments:
+      comments: 评论
+      post_comment: 发表评论
+      post_placeholder: 帮助作者优化他们的帖子，或指向网站上的其他有用信息。通过@username提及用户通过电子邮件通知他们这个线程
+      must_be_logged_in: 您必须<a href='%{url1}'>登录</a>才能发表评论。
+    _notes:
+      moderate_first_time_post: 管理第一次邮件
+      approve: 批准
+      span: 垃圾
+      pending_approval: 等 <a href='%{url1}'>社会管理员</a>的批准。请等一下！
+      last_edit_by: 最后篇改
+      views: 视图
+      read_more: 更多资料
+    show:
+      note_no_tags: 此笔记没有标签;请通过<a onClick="$('#taginput').focus()">在下面添加描述性标签</a>帮助将其与其他内容相关联。
+      question: 问题
+      author_is_asking_about: |+
+        <a href='%{url1}'> %{作者} </a>
+        在问一个问题关于 <b>%{主题}</b>;
+
+
+      sign_up_to_answer: 注册以回答有关此主题的问题
+      unpublished: 未公布
+      views: 视图
+      comments: 评论
+      shortlink: 短链
+      barnstar_awarded_to_by: "<a href='%{url1}'>％{author} </a>获得了<a href='%{url2}'>％{barnstar}
+        Barnstar </a> <a href ='％{ url3}'>％{awarder} </a>在本研究报告中的工作。"
+      file_table: |
+        <th>文件</ th>
+        <th>大小</ th>
+        <th>已上传</ th>
+      event_is_on: 此活动在％{date}
+      ical: iCal
+      login_to: 请<a href='%{url1}'>登录</a>到
+      people_will_attend: "％{count}人将参加"
+    _tagged_notes:
+      by_author_time_ago: |
+        从 <a href='%{url1}'>%{tauthor}</a>
+        | %{time} 前
+      views: 视图
+      read_more: 更多资料
+      spam: 垃圾
+    _comment:
+      commented: 已经评论
+      streak_title: "％{author}正在着火！上次％{streak_days}天内的％{streak_notes}笔记，％{streak_wiki}
+        wiki编辑，％{streak_comments}条评论"
+      are_you_sure: 你确定？
+      please_exercise_caution: 请谨慎删除/审核他人的评论;这不能被撤消。
+      edit_comment: 编辑评论
+      edit_placeholder: 帮助作者优化他们的帖子，或指向网站上的其他有用信息。通过@username提及用户通过电子邮件通知他们这个线程
+    tools_places:
+      tools_and_techniques: 工具和方法 <small> 由公共实验室贡献者开发 </small>
+      public_lab_chapters: Public Lab 理事会
+      start_a_chapter: 地方团体和世界各地的聚会| <a href='%{url1}'>开始撰写章节＆raquo; </a>
+      tools: 工具
+      places: 地方
+    stats:
+      about_this_page: |+
+        <h4>关于此页</ h4>
+
+        <p>Public Lab建立在社区成员的贡献之上，这个网站代表了我们共同的开源工作。</ p>
+
+      contributors_statistics: 贡献者统计信息
+      looking_back: 回顾<i>％{time} </ i>
+      try_time_further_back: |
+        尝试<a href='%{url1}'>一年</a>，
+        <a href='%{url2}'>一个月</a>，或者
+        <a href ='％{url3} '一周</a>
+        回去.
+      notes_and_wiki_edits_past_week: |
+        在过去一周内发布的<a href='%{url1}'>％{note_count}笔记</a>
+        和<a href='%{url2}'>％{wiki_count} Wiki编辑</a>
+      people_joined_past_week: 在过去一周加入了<b>％{people_count}人</ b>。
+      notes_and_wiki_edits_past_month: |
+        在过去一个月发布的<a href='%{url1}'>％{note_count}笔记</a>
+        和<a href='%{url2}'>％{wiki_count} Wiki编辑</a>
+      people_joined_past_month: 在过去一个月内，有<b>％{people_count}人</ b>加入。
+      research_notes_posted_by_contributors: "％{note_count}研究笔记已由％{contribut_count}个贡献者发布，因为％{time}
+        前"
+      notes_per_week_past_year: 过去一年中每周的收入为％{note_count}。
+      note_posting_52_weeks: 注意过去52周的帖子
+      wiki_pages_posted: "％{count}个wiki页面已发布，共"
+      wiki_page_posting_52_weeks: Wiki上载页面过去52周
+      comments_posted: "％{count}条评论已发布，共"
+      comments_posted_52_weeks: 评论发布为过去52周
+      wiki_page_edits: "％{count}个wiki页面已编辑，共"
+      edits_per_week: 过去一年每周％{count}次编辑
+    index:
+      search_results_for: 关于<i style =“color：#aaa;”>％{params} </ i>的搜索结果
+      advanced_search: 高级搜索
+      notes_tagged_with: 标有<i style =“color：#aaa;”>％{params} </ i> 的笔记
+      popular_research_notes: 热门研究笔记
+      research_on: 通过<a href='%{url1}'>％{user_name} </a>对“％{tags}”的研究
+      research_notes_and_wiki_edits_with_time: "％{count}条研究笔记和Wiki编辑开始于％{time}前"
+      research_by: 由<a href='%{url1}'>％{user_name} </a>进行的研究
+      research_notes_and_wiki_edits: "％{count}研究笔记和wiki编辑"
+      starting_time: 开始 %{time} 前
+      research_notes_ideas_and_documentation: 研究笔记<small class =“hidden-sm”>来自撰稿人的想法和文档</
+        small>
+      recent: 刚
+      popular: 热门
+      liked: 喜欢
+      wiki_pages: 百科<span class="hidden-sm"> 的页</span>
+    _responses:
+      post_response: 把你的反应上载
+      responses: 反应
+  sidebar:
+    _related:
+      write_research_note: 写一个调查笔记
+      share_your_work: 和别人分享作品
+      post_related_work: 上载关于作品
+      translation: 翻译
+      response_to: 这是一个回应
+      responses_to_note: 对布条的回应
+      recent_topic_contributors: 最近主题贡献者
+      view_all: 全部
+      contributors: 贡献者
+      recent_wiki_edits: 最近百科修改
+      recent_wiki_pages: 最近百科页
+      related_research_notes: 关于调查笔记
+      related_maps: 关于地图
+    _post_button:
+      share_your_work: 和别人分享作品
+      write_research_note: 写一个调查笔记
+      post_research: 把研究上载
+      post_research_note: 上载一个调查笔记
+      create_wiki_page: 写一页百科
+      about_posting: 关于上载
+      moderate_spam: 垃圾
+      email_search: 找电邮
+      tools: 工具
+      post_newsletter: 发布简报
+      browse_wiki: 浏览 Public Lab百科
+    _author:
+      recent_tags_for_author: 最近的标签 <a href='%{url1}'>%{author}</a>
+    _wikis:
+      updated_by: |
+        更新 %{time} 前
+        由 <a href='%{url1}'>%{author_name}</a>
+      more: 其他
+    _user:
+      discussion_list: 讨论列表
+      work_happens_on_discussion_lists: 我们的大部分工作发生在我们的区域和专题讨论列表
+      join_one_today: 现在加入一个！
+      recent_wiki_edits: 最近百科修改
+    _events:
+      post_event: 上载事件
+      local_events: 附近事件
+      no_events: 没有事件
+    _notes:
+      updated_by: |
+        更新 %{time} 前
+        由 <a href='%{url1}'>%{author_name}</a>
+      more: 其他
+    _list:
+      mailing_list: 加入 <a href='%{url1}'<b>%{mailing_list}</b> 邮件列表 </a>
+      subscribe: 订阅
+      recent_discussion_topics: 最近讨论主题
+      all_topics: 全部主题
+  dashboard:
+    _node_wiki:
+      new_page_by: 新页
+      new_edit_by: 新的篇改
+      changes: 改变
+    _header:
+      share_work: 分享作品
+      dropdown:
+        share_research_note: 分享调查笔记
+        ask_question: 问问题
+        post_event: 上载事件
+        tell_story_blog: 在博客上分享你的故事
+      dashboard: 仪表板
+      community_research: 社区研究
+      welcome: 欢迎
+      notes: 笔记
+      and: 和
+      wiki_edits: 百科修改
+      posted_past_week: 在上周上载
+      you_shared: 你分享了
+      research_note: 调查笔记
+      research_notes: 调查笔记
+      this_could_be_dashboard: 你可以拥有这个仪表板如果你
+      joined_public_lab: 加入Public Lab
+    dashboard:
+      from_blog: 从  <a href='%{url}'>Public Lab 的博客</a>
+      by: 由
+    _wiki:
+      shared_knowledge_base: 一个社会科学<a href='%{url}'>可以分享的知识储藏</a>
+      search: 找
+      new_page: 新页
+      new_page_by: 新页
+      new_edit_by: 新的篇改
+      changes: 改变
+      more: 其他
+    _node_moderate:
+      first_time_post: 管理第一次的评论
+      approve: 批准
+      spam: 垃圾
+      pending_approval: 等{社会管理员}的批准。请等一下！
+    _node_comment:
+      commented_on: 评论在
+      comments: 评论
+    _node_question:
+      post_answer: 上载答案
+      question: 问题
+    _activity:
+      activity: 活动
+      share_work: 分享您的东西
+      all_updates: 更新
+      dropdown:
+        all: 全部
+        research_notes: 调查笔记
+        questions: 问题
+        events: 活动
+        comments: 评论
+        wiki: 百科
+      from_other: 从其他
+      community_scientists: 科学家
+      past_week: 上周
+      your_work: 你的作品
+    _sidebar:
+      wiki: 百科
+      discussion_list: 讨论列表
+      all: 全部
+      public_laboratory: 公共实验室
+      grassroots_mapping: 草根制图
+      spectrometry: 光谱
+      infrared: 红外线
+      air_quality: 空气的质量
+      water_quality: 水的质量
+      developers: 开发者
+  notes_controller:
+    research_notes: 调查笔记
+    thank_you_for_contribution: 成功！感谢您提供公开研究结果，感谢您的耐心等待，同时<a href='/wiki/moderation'>社群管理员</a>已核准您的讯息，我们会在发布时向您发送电子邮件。在此期间，如果你有更多的贡献，随意这样做。
+    research_note_published: 研究论文出版。在<a href='/lists'>讨论列表</a>上了解相关内容！
+    you_have_been_banned: 您已经被禁止。如果您认为这是错误的，请与<a href='mailto:moderators@publiclab.org'>
+      moderators@publiclab.org </a>联系。
+    author_can_edit_note: 只有作者才能编辑研究笔记.
+    edits_saved: 笔记已保存修改
+    edit_not_saved: 无法保存您笔记的修改
+    content_deleted: 内容已删除
+    highly_liked_research_notes: 非常喜欢的研究笔记
+    popular_research_notes: 热门研究笔记
+  home:
+    dashboard:
+      welcome: 欢迎！
+      need_help: 需要帮忙，想要分享想法，或找合作人？
+      join_discussion_list: 加入一个专研或附近的Public Lab讨论
+      no_research_note: 你还没有上载一个研究笔记--想
+      sharing_work: 分享你的作品和你觉得兴趣的
+      please: 请
+      create_password: 为 PublicLab.org 网站制造密码
+      older_site_deactive: 旧的 PublicLaboratory.org 网站不久会被拿下来
+      coming_soon: 在以后会有
+      revised_dashboard: 新的仪表
+      try_it: 在这里试一试
+      dashboard_main:
+        dashboard_title: 仪表板
+        welcome: 欢迎
+        notes: 笔记
+        and: 和
+        wiki_edits: 百科修改
+        posted_last_week: 在上周上载
+      nav_tabs:
+        recent: 刚
+        activity: 活动
+        comments: 评论
+        liked: "“喜欢”"
+        subscriptions: 订阅
+        lists: 目录
+      read_more_research_notes: 看更多调查笔记
+    home:
+      public_lab_community: 是一个你可以学会怎么调查环境问题的群体。利用便宜，自己创着的方法，我们想改变人们在社会，环境的方面怎么看世界
+      join_now: 加入我们
+      the_problem:
+        title: 一。问题
+        lack_access: 有些群体缺乏
+        tools: 工具和技巧
+        need_participation: 参加对于他们群体的决定，尤其是当面对环境问题
+      the_collaboration:
+        title: 二。合作
+        open_network: 我们是一个开放的
+        organizers: 社会组织者
+        create_low_cost_solutions: 教会专家，科学专家和研究员合作创作便宜的方法
+        monitoring: 调查空气，水和土地
+        discover: 发现和合作
+        locally_important_matters: 在附近重要的事情
+        global_community: 但有世界群体的支持
+      the_solution:
+        title: 三。解答
+        join_us_today: 加入我们，让我们一起合作创作一个DIY的团体，用简单的工具
+        growing_data: 知识的仓库
+        local_environments: 对于我们的附近社会
+    _comments:
+      commented: 已经评论
+      read_more: 更多资料
+    subscriptions:
+      title: 订阅
+      up_to_date_emails: 让你知道最近的Public Lab的消息。你可以选择用电邮或文摘收
+      manage_subscriptions: 检查订阅
+      click_unfollow: 取消关注
+      following: 关注
+      research_notes: 全部调查笔记
+      subscribe_to: 订阅
+      all: 全部
+      notes: 笔记
+      receive_mails: 对于全部调查笔记收电邮
+      enter_tags: 输入标签
+      add: 加
+      tag: 标签
+      options: 选项
+      share_subscription_link: 分享这个订阅
+      share: 分享
+      unsubscribe: 取消订阅
+  layout:
+    _alerts:
+      request_access: 网站已请求访问您的帐户。
+      approve_or_deny: 批准或拒绝请求
+    _header:
+      summary: Public Lab是一个开放的社区，协作开发无障碍，开放源代码的Do-It-Yourself技术，用于调查当地环境健康和司法问题。
+      your_dashboard: 仪表板
+      projects:
+        projects_title: 项目
+        research:
+          research_title: 调查
+          research_notes: 调查笔记
+          publiclab_wiki: Public Lab 百科
+          questions: 问题
+          tools: 工具
+          places: 地方
+          kits: 套件
+          users_map: 用户地图
+          comments: 最近评论
+        initiatives:
+          initiatives_title: 主动
+          open_land: 开放土地
+          open_water: 开放水域
+          open_air: 露天
+        fellows: 研究员
+        lending_library: 贷款图书馆
+      search: 搜索
+      about:
+        about_title: 关于
+        stories: 故事
+        blog: 博客
+        about_public_lab: 关于Public Lab
+        team: 非营利团队
+        organizers: 组织者
+        board: 非营利董事会
+        fund: 我们如何资助
+        press_and_media: 新闻和媒体
+        contact: 联系工作人员
+      get_involved:
+        get_involved_title: 参与
+        getting_started: 入门
+        join: 加入网站
+        discussion_lists: 加入一个讨论列表
+        attend_event: 参与事件
+        post_event: 上载事件
+        new_chapters: 开始新章节
+        new_projects: 启动新项目
+        organizer: 成为组织者
+      data:
+        data_title: 数据
+        archive: Public Lab存档
+        web_tools:
+          web_tools_title: 网络工具
+          mapknitter: MapKnitter
+          spectral_workbench: 光谱工作台
+          infragram: 红外线光谱
+          open_water: 开放水域
+      donate: 捐赠
+      store: 商店
+      chatroom:
+        pop_out: 弹出
+        chatroom_title: Public Lab聊天室
+      become_part_community: 成为这个社群的一部分
+      join: 加入
+      dashboard: 仪表板
+      profile: 简介
+      edit_profile: 编辑个人资料
+      subscriptions: 订阅
+      notes_liked: 您喜欢的注释
+      logout: 登出
+      login:
+        login_title: 登录
+        username: 用户名
+        password: 密码
+        remember_me: 记住我
+        sign_up: 注册
+        reset_password: 重置你的密码
+      language:
+        language_title: 语言
+      research_note: 调查笔记
+      wiki_doc: 百科文档
+    _footer:
+      getting_help:
+        report_bug: 报告错误或问题
+        email_working_group: 通过电子邮件发送Web工作组
+        publiclab_oss: PublicLab.org是<a href='%{url1}'>开源软件</a>和<a href='%{url2}'>寻找贡献者</a>
+      links:
+        about: 关于
+        getting_started: 入门
+        licenses: 牌照
+        discussion_lists: 讨论列表
+        site_statistics: 网站统计
+        rss: RSS
+      license: 本作品根据<a href='%{creative_commons_url}'> Creative Commons Attribution-ShareAlike
+        3.0 Unported License </a>授权。本网站上的硬件设计在<a href='%{cern_license_url}'> CERN开放硬件许可1.1
+        </a>下发布。有关公共实验室的<a href='%{publiclab_license_url}'>开源许可</a>的详情，请点击此处</a>。
+      different_licenses: 本网站上的特定作品可能会根据不同的许可进行发布或专用，但前提是作者明确指出此类替代方法。
+      font_use: 此网站广泛使用开放源代码字体<a href='%{url}'> Junction </a>。
+      server_donation: PublicLab.org是通过<a href='%{url}'> Rackspace </a>捐赠服务器空间托管的。
+      language:
+        language_title: 语言
+  home_controller:
+    science_community: 一个自己创作的环境科学群体
+    environmental_investigation: 一个自己创作的环境科学群体
+    community_research: 群体研究
+  comments:
+    _edit:
+      uploading: 上载
+      drag_and_drop: 拖放图像或文件
+      choose_one: 选一项
+      upload_image: 上载图片
+      preview: 预见
+      cancel: 取消
+      publish: 发布
+      logged_in: 登录 {以用户名}
+      formatting: 格式化
+      notifications: 通知
+      email_notifications: 作者，评论者以及“喜欢”此评论的用户都会收到电子邮件通知
+    _form:
+      uploading: 上载
+      drag_and_drop: 拖放图像或文件
+      choose_one: 选一项
+      upload_image: 上载图片
+      preview: 预见
+      cancel: 取消
+      publish: 发布
+      logged_in: 登录 {以用户名}
+      formatting: 格式化
+      notifications: 通知
+      email_notifications: 作者，评论者以及“喜欢”此评论的用户都会收到电子邮件通知
+  spamaway:
+    human:
+      statement1: 我是一个人。
+      statement2: 我有一颗心
+      statement3: 我吃食物。
+      statement4: 我住在地球上。
+      statement5: 我是一个有机体。
+      statement6: 我喝水
+    robot:
+      statement1: 我是一个机器人。
+      statement2: 我是一个中央处理单元。
+      statement3: 我是一台电脑。
+      statement4: 我是一个算法。
+      statement5: 我住在电脑里。
+      statement6: 我在这里写广告。
+    errors:
+      please_read_instructions: 请仔细阅读最后一个框中的说明。
+      not_a_real_person: "- 它似乎不是你是一个真正的人！如果您不同意或遇到问题，请参阅'https://publiclab.org/wiki/registration-test'
+        。"
+  js:
+    dashboard:
+      selected_updates: 所选更新
+      none: 没有
+      all_updates: 所有更新
+  tag:
+    contributors:
+      contributors_for: 为<i style="color:#aaa;">%{tag_name}</i>的贡献者
+      contributions_over_past_year: 上面：去年的贡献
+      notes_and_wiki_contributions: "％{users}人提供了％{笔记}研究笔记和％{wikis}个标有“％{tag_name}”的wiki页面</
+        i>"
+      following: 关注
+      unfollow: 取消关注
+      follow: 关注
+    blog:
+      the_public_lab: Public Lab
+      blog: 博客
+      stories_from_community: Public Lab社会的故事
+      about_the_blog: 关于博客
+      following: 关注
+      unfollow: 取消关注
+      follow: 关注
+      no_results: 未找到结果;尝试搜索“％{search}”
+      advanced_search: 或尝试<a href='%{url}'>高级搜索</a>
+      by: 由
+      views: 视图
+      read_more: 更多资料
+      spam: 垃圾

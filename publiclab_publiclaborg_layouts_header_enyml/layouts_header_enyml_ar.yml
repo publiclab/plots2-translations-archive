@@ -1,0 +1,48 @@
+ar:
+  layout:
+    _header:
+      projects:
+        projects_title: "المشاريع"
+        research:
+          research_title: "الابحاث"
+          tools: "الادوات"
+          places: "الاماكن"
+          comments: "التعليقات الحالية"
+      search: "البحث"
+      about:
+        about_title: "عن"
+        stories: "القصص"
+        blog: "المدونة"
+        about_public_lab: "عن بابليك لاب"
+        team: "فريق غير ربحي"
+        organizers: "المنظمين"
+        fund: "كيف نمول"
+        press_and_media: "الصحافة والاعلام"
+        contact: "تواصل مع فريق العمل"
+      get_involved:
+        get_involved_title: "شارك"
+        getting_started: "ابدء"
+        join: "انضم الى الموقع الالكتروني"
+        new_projects: "ابدء مشاريع جديدة"
+        organizer: "اصبح منظم"
+      data:
+        data_title: "البيانات"
+        archive: "ارشيف بابليك لاب"
+        web_tools:
+          web_tools_title: "ادوات الويب"
+      donate: "تبرع"
+      store: "المتجر"
+      join: "انضم"
+      dashboard: "لوحة القيادة"
+      profile: "الملف الشخصي"
+      edit_profile: "عدل ملفك الشخصي"
+      logout: "تسجيل الخروج"
+      login:
+        login_title: "تسجيل الدخول"
+        username: "اسم المستخدم"
+        password: "كلمة السر"
+        remember_me: "تذكرني"
+        sign_up: "التسجيل"
+        reset_password: "اعادة كلمة السر الخاصة بك"
+      language:
+        language_title: "اللغة"

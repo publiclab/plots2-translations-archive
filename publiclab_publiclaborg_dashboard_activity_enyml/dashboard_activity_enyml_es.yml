@@ -1,0 +1,17 @@
+es:
+  dashboard:
+    _activity:
+      activity: "Actividad"
+      share_work: "Comparte tu trabajo"
+      all_updates: "Todas las actualizaciones"
+      dropdown:
+        all: "Todas"
+        research_notes: "Notas de investigación"
+        questions: "Preguntas"
+        events: "Eventos"
+        comments: "Comentarios"
+        wiki: "Wiki"
+      from_other: "otras"
+      community_scientists: "científicos comunitarios"
+      past_week: "la semana pasada"
+      your_work: "Tu trabajo"

@@ -1,0 +1,5 @@
+ko:
+  dashboard:
+    dashboard:
+      from_blog: "<a href='%{url}'>Public Lab 블로그</a>에서"
+      by: "으로"

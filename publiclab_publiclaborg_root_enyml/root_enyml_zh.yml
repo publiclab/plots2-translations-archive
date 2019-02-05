@@ -1,0 +1,87 @@
+zh:
+  language: 英文
+  date:
+    abbr_day_names:
+    - Sun
+    - Mon
+    - Tue
+    - Wed
+    - Thu
+    - Fri
+    - Sat
+    abbr_month_names:
+    - null
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+    day_names:
+    - Sunday
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+    - Saturday
+    formats:
+      default: "%Y-%m-%d"
+      long: "%B %d, %Y"
+      short: "%b %d"
+    month_names:
+    - null
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+    order:
+    - :年
+    - :月
+    - :日
+  datetime:
+    time_ago_in_words:
+      about_x_hours:
+        other: 在 %{count} 小时前
+      about_x_months:
+        other: 在 %{count} 月前
+      about_x_years:
+        other: 在 %{count} 年前
+      almost_x_years:
+        other: 大概 %{count} 年前
+      half_a_minute: 半分钟前
+      less_than_x_minutes:
+        other: 少过 %{count} 分钟前
+      less_than_x_seconds:
+        other: 少过 %{count} 分秒前
+      over_x_years:
+        other: 超过 %{count} 年前
+      x_days:
+        other: " %{count} 天前"
+      x_minutes:
+        other: " %{count} 分钟前"
+      x_months:
+        other: "%{count} 月前"
+      x_seconds:
+        other: " %{count} 分秒前"
+    prompts:
+      day: 天
+      hour: 小时
+      minute: 分钟
+      month: 月
+      second: 分秒
+      year: 年

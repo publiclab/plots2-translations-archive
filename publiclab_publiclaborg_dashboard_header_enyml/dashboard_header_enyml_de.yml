@@ -1,0 +1,21 @@
+de:
+  dashboard:
+    _header:
+      share_work: "Teile deine Arbeit"
+      dropdown:
+        share_research_note: "Teile eine Research Note"
+        ask_question: "Erstelle eine Frage"
+        post_event: "Erstelle ein Event"
+        tell_story_blog: "Erzähle eine Geschichte im Blog"
+      dashboard: "Übersicht"
+      community_research: "Gemeinschaftsforschung"
+      welcome: "Willkommen"
+      notes: "Notizen"
+      and: "und"
+      wiki_edits: "Wiki-Beiträge"
+      posted_past_week: "in der letzten Woche verfasst."
+      you_shared: "Von Dir erstellt:"
+      research_note: "Research Note"
+      research_notes: "Research Notes"
+      this_could_be_dashboard: "Dies ist Deine persönliche Übersicht wenn Du"
+      joined_public_lab: "Public Lab beitrittst"

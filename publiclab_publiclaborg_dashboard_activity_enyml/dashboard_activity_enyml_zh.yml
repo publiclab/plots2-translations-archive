@@ -1,0 +1,17 @@
+zh:
+  dashboard:
+    _activity:
+      activity: "活动"
+      share_work: "分享您的东西"
+      all_updates: "更新"
+      dropdown:
+        all: "全部"
+        research_notes: "调查笔记"
+        questions: "问题"
+        events: "活动"
+        comments: "评论"
+        wiki: "百科"
+      from_other: "从其他"
+      community_scientists: "科学家"
+      past_week: "上周"
+      your_work: "你的作品"

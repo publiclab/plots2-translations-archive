@@ -1,0 +1,14 @@
+de:
+  comments:
+    _edit:
+      uploading: "Hochladen..."
+      drag_and_drop: "Füge ein Bild oder eine Datei per Drag &amp; Drop hinzu, oder"
+      choose_one: "wähle aus"
+      upload_image: "Bild hochladen"
+      preview: "Vorschau"
+      cancel: "Verwerfen"
+      publish: "Veröffentlichen"
+      logged_in: "Angemeldet als <b>%{username}</b>"
+      formatting: "Formatierung"
+      notifications: "Benachrichtigungen"
+      email_notifications: "Der Autor, Kommentatoren und Personen die diese Notiz \"geliked\" haben erhalten Email-Benachrichtigungen"

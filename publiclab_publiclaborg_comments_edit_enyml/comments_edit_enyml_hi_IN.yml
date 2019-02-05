@@ -1,0 +1,14 @@
+hi_IN:
+  comments:
+    _edit:
+      uploading: "अपलोड हो रहा है ..."
+      drag_and_drop: "खींचें और छोड़ दे एक छवि या फ़ाइल को जोड़ने के लिए, या"
+      choose_one: "एक चुनो"
+      upload_image: "तस्वीर डालिये"
+      preview: "पूर्वावलोकन"
+      cancel: "रद्द करें"
+      publish: "प्रकाशित करें"
+      logged_in: "<b>%{username}</b> के रूप में लॉग इन किया"
+      formatting: "स्वरूपण"
+      notifications: "सूचनाएं"
+      email_notifications: "लेखक, टिप्पणीकर्ताओं, और जो इस टिप्पणी को \"पसंद\" करते हैं, ईमेल द्वारा सूचनाएं प्राप्त करे"

@@ -1,0 +1,16 @@
+zh:
+  tag:
+    blog:
+      the_public_lab: "Public Lab"
+      blog: "博客"
+      stories_from_community: "Public Lab社会的故事"
+      about_the_blog: "关于博客"
+      following: "关注"
+      unfollow: "取消关注"
+      follow: "关注"
+      no_results: "未找到结果;尝试搜索“％{search}”"
+      advanced_search: "或尝试<a href='%{url}'>高级搜索</a>"
+      by: "由"
+      views: "视图"
+      read_more: "更多资料"
+      spam: "垃圾"

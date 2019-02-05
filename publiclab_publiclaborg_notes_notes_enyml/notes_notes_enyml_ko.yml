@@ -1,0 +1,10 @@
+ko:
+  notes:
+    _notes:
+      moderate_first_time_post: "첫 게시물 중재:"
+      approve: "승인"
+      span: "스팸"
+      pending_approval: "<a href='%{url1}'> 커뮤니티 운영자 </a>의 승인 대기 중입니다. 기다려주십시오!"
+      last_edit_by: "가장 최근 편집"
+      views: "뷰"
+      read_more: "더보기"

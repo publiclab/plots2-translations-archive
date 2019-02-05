@@ -1,0 +1,10 @@
+ko:
+  wiki:
+    _wikis:
+      table_content: |
+          <th>제목</th>
+          <th>최근 편집 내역</th>
+          <th>편집 내역</th>
+          <th class="hidden-xs">페이지 뷰</th>
+      likes: '좋아요'
+      by: '으로부터'

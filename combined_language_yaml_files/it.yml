@@ -1,0 +1,52 @@
+---
+it:
+  dashboard:
+    _header:
+      share_work: Condividi il tuo lavoro
+      dropdown:
+        share_research_note: Condividi una nota di ricerca
+        ask_question: Fai una domanda
+        post_event: Pubblica un evento
+        tell_story_blog: Racconta la tua storia sul blog
+      dashboard: Cruscotto
+      welcome: Benvenuto
+      notes: note
+      and: e
+      wiki_edits: modifiche del wiki
+      posted_past_week: pubblicate nella scorsa settimana.
+      you_shared: Hai condiviso
+      research_note: nota di ricerca
+      research_notes: note di ricerca
+    dashboard:
+      from_blog: Dal <a href='%{url}'>Blog del Public Lab</a>
+      by: di
+    _activity:
+      activity: Attività
+      share_work: Condividi il tuo lavoro
+      dropdown:
+        research_notes: Note sulla ricerca
+        questions: Domande
+        events: Eventi
+        comments: Commenti
+        wiki: Wiki
+      your_work: Il tuo lavoro
+  comments:
+    _edit:
+      uploading: Caricamento...
+      upload_image: Carica immagine
+      preview: Anteprima
+      cancel: Annulla
+      publish: Pubblica
+      logged_in: Collegato come <b>%{username}</b>
+      notifications: Avvisi
+      email_notifications: L'autore, i commentatori e quelli che hanno dato un "mi
+        piace" a questa nota riceveranno gli avvisi via mail
+    _form:
+      uploading: Caricamento...
+      preview: Anteprima
+      cancel: Annulla
+      publish: Pubblica
+      logged_in: Collegato come <b>%{username}</b>
+      notifications: Avvisi
+      email_notifications: L'autore, i commentatori e quelli che hanno dato un "mi
+        piace" a questa nota riceveranno gli avvisi via mail

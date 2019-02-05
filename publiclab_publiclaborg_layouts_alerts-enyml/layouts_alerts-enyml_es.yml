@@ -1,0 +1,5 @@
+es:
+  layout:
+    _alerts:
+      request_access: "Un sitio ha solicitado acceso con tu cuenta."
+      approve_or_deny: "Aprueba o rechaza la solicitud"

@@ -1,0 +1,9 @@
+ar:
+  comments:
+    _form:
+      uploading: "جاري الرفع..."
+      choose_one: "اختر واحد"
+      upload_image: "ارفع صورة"
+      preview: "اظهر"
+      cancel: "الغاء"
+      publish: "نشر"

@@ -1,0 +1,9 @@
+zh:
+  notes:
+    _comment:
+      commented: "已经评论"
+      streak_title: "％{author}正在着火！上次％{streak_days}天内的％{streak_notes}笔记，％{streak_wiki} wiki编辑，％{streak_comments}条评论"
+      are_you_sure: "你确定？"
+      please_exercise_caution: "请谨慎删除/审核他人的评论;这不能被撤消。"
+      edit_comment: "编辑评论"
+      edit_placeholder: "帮助作者优化他们的帖子，或指向网站上的其他有用信息。通过@username提及用户通过电子邮件通知他们这个线程"

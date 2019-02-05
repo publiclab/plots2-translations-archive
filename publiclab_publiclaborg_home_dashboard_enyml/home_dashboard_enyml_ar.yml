@@ -1,0 +1,11 @@
+ar:
+  home:
+    dashboard:
+      welcome: 'اهلا'
+      sharing_work: "شارك بعملك واهتماماتك"
+      please: "فضلا"
+      coming_soon: "قريبا"
+      dashboard_main:
+        welcome: 'اهلا'
+      nav_tabs:
+        comments: 'التعليقات'

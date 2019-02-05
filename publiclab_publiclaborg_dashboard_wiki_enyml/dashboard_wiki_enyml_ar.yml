@@ -1,0 +1,9 @@
+ar:
+  dashboard:
+    _wiki:
+      search: "ابحث عن..."
+      new_page: "صفحة جديدة"
+      new_page_by: 'صفحة جديدة بواسطة'
+      new_edit_by: 'تعديل جديد بواسطة'
+      changes: "التغيرات"
+      more: 'المزيد'

@@ -1,0 +1,11 @@
+it:
+  comments:
+    _edit:
+      uploading: "Caricamento..."
+      upload_image: "Carica immagine"
+      preview: "Anteprima"
+      cancel: "Annulla"
+      publish: "Pubblica"
+      logged_in: "Collegato come <b>%{username}</b>"
+      notifications: "Avvisi"
+      email_notifications: "L'autore, i commentatori e quelli che hanno dato un \"mi piace\" a questa nota riceveranno gli avvisi via mail"

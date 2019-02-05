@@ -1,0 +1,17 @@
+hi_IN:
+  dashboard:
+    _activity:
+      activity: "कार्यकलाप"
+      share_work: "अपने काम को बॉटना"
+      all_updates: "सभी अपडेट"
+      dropdown:
+        all: "सभी"
+        research_notes: "अनुसंधान नोट्स"
+        questions: "प्रशन"
+        events: "आयोजन"
+        comments: "टिप्पणियाँ"
+        wiki: "विकी"
+      from_other: "अन्य से"
+      community_scientists: "समुदाय वैज्ञानिक"
+      past_week: "पिछले सप्ताह में"
+      your_work: "तुम्हारा काम"

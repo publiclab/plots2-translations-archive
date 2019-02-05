@@ -1,0 +1,18 @@
+de:
+  wiki:
+    show:
+      page_has_no_tags: "Diese Seite hat noch keine Tags; hilf uns sie mit anderem Inhalt zu verbinden und <a onClick='$('#taginput').focus()'>füge beschreibende Tags unten hinzu</a>."
+      revision_from: "Dies ist eine Revision vom %{time}."
+      view_all_revisions: "Alle Revisionen anzeigen"
+      views: "Aufrufe"
+      last_edited: "Zuletzt bearbeitet von <a href='%{url1}'>%{author}</a> vor %{time}"
+      shortlink: "Kurz-URL"
+      view: "Ansicht"
+      edit: "Bearbeiten"
+      delete: "Löschen"
+      are_you_sure_delete: "Möchtest Du '%{path}' endgültig löschen? Alle Revisionen gehen dabei verloren und Du kannst diese Aktion nicht rückgängig machen. Falls es sich um Spam handelt dann stelle sicher, dass kein gültiger Inhalt davon überschrieben wurde, bevor Du die Seite löschst."
+      talk: "Diskussion"
+      back_to_wiki: "Zurück zu <a href='%{url1}'>%{title}"
+      overview: "Übersicht"
+      wiki_pages: "Wiki<span class=\"hidden-sm\">-Seiten</span>"
+      more_research: "Mehr zum Thema \"%{tag}\""

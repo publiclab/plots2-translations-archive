@@ -1,0 +1,10 @@
+zh:
+  dashboard:
+    _wiki:
+      shared_knowledge_base: "一个社会科学<a href='%{url}'>可以分享的知识储藏</a>"
+      search: "找"
+      new_page: "新页"
+      new_page_by: '新页'
+      new_edit_by: '新的篇改'
+      changes: "改变"
+      more: '其他'

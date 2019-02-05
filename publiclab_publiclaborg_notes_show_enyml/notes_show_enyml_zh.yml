@@ -1,0 +1,24 @@
+zh:
+  notes:
+    show:
+      note_no_tags: "此笔记没有标签;请通过<a onClick=\"$('#taginput').focus()\">在下面添加描述性标签</a>帮助将其与其他内容相关联。"
+      question: "问题"
+      author_is_asking_about: |+
+          <a href='%{url1}'> %{作者} </a>
+          在问一个问题关于 <b>%{主题}</b>;
+
+
+      sign_up_to_answer: "注册以回答有关此主题的问题"
+      unpublished: "未公布"
+      views: "视图"
+      comments: "评论"
+      shortlink: "短链"
+      barnstar_awarded_to_by: "<a href='%{url1}'>％{author} </a>获得了<a href='%{url2}'>％{barnstar} Barnstar </a> <a href ='％{ url3}'>％{awarder} </a>在本研究报告中的工作。"
+      file_table: |
+          <th>文件</ th>
+          <th>大小</ th>
+          <th>已上传</ th>
+      event_is_on: "此活动在％{date}"
+      ical: "iCal"
+      login_to: "请<a href='%{url1}'>登录</a>到"
+      people_will_attend: "％{count}人将参加"

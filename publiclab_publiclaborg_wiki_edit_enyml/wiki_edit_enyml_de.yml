@@ -1,0 +1,28 @@
+de:
+  wiki:
+    edit:
+      did_you_mean: 'Meintest Du'
+      try_searching_for: "Versuche <a href='%{url1}'>nach '%{wiki}' &raquo; zu suchen</a>"
+      whats_a_wiki_page: |
+          <h3><i class="fa fa-book"></i> Was sind<br /> Wiki-Seiten?</h3>
+          <p>Bei Public Lab arbeiten wir alle zusammen, um quelloffene Tools für die Umweltforschung zu erfinden und zu verbessern. <b>Wiki-Seiten</b> sind Webseiten die Jeder erstellen oder ändern kann. Wir benutzen sie um Informationen zu sammeln, für Dokumentationen und Anleitungen zu unseren Projekten.</p>
+          <p><b>Wiki-Seiten können beinhalten:</b></p>
+          <ul>
+          <li>Ein <a href="/tag/tutorial">Tutorial</a> zur Herstellung von etwas</li>
+          <li>Dokumentation eines Projekts</li>
+          <li>Die Planung eines Events</li>
+          <li>Eine Liste/Sammlung von Research Notes</li>
+          <li>etc!</li>
+          </ul>
+      more: 'Weitere Themen'
+      getting_started: 'Erste Schritte bei Public Lab'
+      revisions_for_this_page: 'Revisionen dieser Wiki-Seite'
+      about_posting_research: 'Das Erstellen von Research Notes'
+      advanced_formatting: 'Erweiterte Formatierung'
+      editing_page: 'Editiere Seite:'
+      create_page: 'Erstelle Seite'
+      publish: 'Veröffentlichen'
+      preview: 'Vorschau'
+      previewing_text: "Vorschau (klicken zum Editieren)"
+      agree_to_open_source_work: "Mit dem Erstellen und Bearbeiten einer Seite stimmst Du zu <a target='_blank' href='%{url1}'>deine Arbeit als Open-Source zu veröffentlichen</a>, damit andere sie nutzen können."
+      last_edited_by: "Diese Seite wurde zuletzt bearbeitet vor  %{time} von <a href='%{url1}'>%{author}</a>"

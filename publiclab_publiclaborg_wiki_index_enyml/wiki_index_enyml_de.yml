@@ -1,0 +1,15 @@
+de:
+  wiki:
+    index:
+      wiki_pages_tagged_with: "Wiki-Seiten mit dem Tag <i style='color:#aaa;'>%{tag}</i>"
+      wiki_pages_by: "Wiki-Seiten von <a href='%{url1}'>%{user}</a> <small>%{note_length} Research Notes und Wiki-Beiträge seit %{time} </small>"
+      highly_liked_wiki_pages: "Beliebte Wiki-Seiten"
+      create_wiki_page: "Erstelle eine neue Wiki-Seite"
+      by_recency: "nach Neuheit"
+      by_popularity: "nach Beliebtheit"
+      by_number_of_likes: "nach # der Likes"
+      popular_wiki_pages: "Am häufigsten besuchte Wiki-Seiten"
+      collaborative_documentation: "Am Meisten gemochte Seiten"
+      public_lab_wiki: "Das Public Lab Wiki"
+      about_collaboration: "Bei Public Lab arbeiten wir alle zusammen, um quelloffene Tools für die Umweltforschung zu erfinden und zu verbessern."
+      about_wiki_pages: "Wiki-Seiten sind Webseiten die <b>Jeder erstellen oder ändern kann</b>. Wir benutzen sie um Informationen zu sammeln, für Dokumentationen und Anleitungen zu unseren Projekten."

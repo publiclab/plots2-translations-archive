@@ -1,0 +1,419 @@
+---
+de:
+  dashboard:
+    _node_wiki:
+      new_page_by: Neue Seite von
+      new_edit_by: Bearbeitet von
+      changes: Änderungen
+    _header:
+      share_work: Teile deine Arbeit
+      dropdown:
+        share_research_note: Teile eine Research Note
+        ask_question: Erstelle eine Frage
+        post_event: Erstelle ein Event
+        tell_story_blog: Erzähle eine Geschichte im Blog
+      dashboard: Übersicht
+      community_research: Gemeinschaftsforschung
+      welcome: Willkommen
+      notes: Notizen
+      and: und
+      wiki_edits: Wiki-Beiträge
+      posted_past_week: in der letzten Woche verfasst.
+      you_shared: 'Von Dir erstellt:'
+      research_note: Research Note
+      research_notes: Research Notes
+      this_could_be_dashboard: Dies ist Deine persönliche Übersicht wenn Du
+      joined_public_lab: Public Lab beitrittst
+    dashboard:
+      from_blog: Aus dem <a href='%{url}'>Public Lab Blog</a>
+      by: von
+    _wiki:
+      shared_knowledge_base: Ein <a href='%{url}'>kollaboratives Nachschlagewerk</a>
+        für Gemeinschaftsforschung
+      search: Suche nach...
+      new_page: Neue Seite
+      new_page_by: Neue Seite von
+      new_edit_by: Neue Bearbeitung von
+      changes: Änderungen
+      more: Mehr
+    _node_moderate:
+      approve: Bestätigen
+      spam: Spam
+      pending_approval: Ausstehend Bestätigung durch einen <a href='%{url}'>Moderator</a>.  Bitte
+        habe etwas Geduld!
+    _node_comment:
+      commented_on: kommentierte in
+      comments: Kommentare
+    _node_question:
+      post_answer: Beantworten
+      question: Frage
+    _activity:
+      activity: Aktivität
+      share_work: Teile deine Arbeit
+      all_updates: Alle Updates
+      dropdown:
+        all: Alles
+        research_notes: Research Notes
+        questions: Fragen
+        events: Ereignisse
+        comments: Kommentare
+        wiki: Wiki
+      from_other: von anderen
+      community_scientists: Community Forschern
+      past_week: in der letzten Woche
+      your_work: Deine Beiträge
+    _sidebar:
+      wiki: Wiki
+      discussion_list: Gruppendiskussionen
+      all: Alle
+      public_laboratory: Public Laboratory
+      grassroots_mapping: Oberflächenkartographie
+      spectrometry: Spektrometrie
+      infrared: Infrarot
+      air_quality: Luftqualität
+      water_quality: Wasserqualität
+      developers: Entwickler
+  wiki:
+    index:
+      wiki_pages_tagged_with: Wiki-Seiten mit dem Tag <i style='color:#aaa;'>%{tag}</i>
+      wiki_pages_by: Wiki-Seiten von <a href='%{url1}'>%{user}</a> <small>%{note_length}
+        Research Notes und Wiki-Beiträge seit %{time} </small>
+      highly_liked_wiki_pages: Beliebte Wiki-Seiten
+      create_wiki_page: Erstelle eine neue Wiki-Seite
+      by_recency: nach Neuheit
+      by_popularity: nach Beliebtheit
+      by_number_of_likes: 'nach # der Likes'
+      popular_wiki_pages: Am häufigsten besuchte Wiki-Seiten
+      collaborative_documentation: Am Meisten gemochte Seiten
+      public_lab_wiki: Das Public Lab Wiki
+      about_collaboration: Bei Public Lab arbeiten wir alle zusammen, um quelloffene
+        Tools für die Umweltforschung zu erfinden und zu verbessern.
+      about_wiki_pages: Wiki-Seiten sind Webseiten die <b>Jeder erstellen oder ändern
+        kann</b>. Wir benutzen sie um Informationen zu sammeln, für Dokumentationen
+        und Anleitungen zu unseren Projekten.
+    show:
+      page_has_no_tags: Diese Seite hat noch keine Tags; hilf uns sie mit anderem
+        Inhalt zu verbinden und <a onClick='$('#taginput').focus()'>füge beschreibende
+        Tags unten hinzu</a>.
+      revision_from: Dies ist eine Revision vom %{time}.
+      view_all_revisions: Alle Revisionen anzeigen
+      views: Aufrufe
+      last_edited: Zuletzt bearbeitet von <a href='%{url1}'>%{author}</a> vor %{time}
+      shortlink: Kurz-URL
+      view: Ansicht
+      edit: Bearbeiten
+      delete: Löschen
+      are_you_sure_delete: Möchtest Du '%{path}' endgültig löschen? Alle Revisionen
+        gehen dabei verloren und Du kannst diese Aktion nicht rückgängig machen. Falls
+        es sich um Spam handelt dann stelle sicher, dass kein gültiger Inhalt davon
+        überschrieben wurde, bevor Du die Seite löschst.
+      talk: Diskussion
+      back_to_wiki: Zurück zu <a href='%{url1}'>%{title}
+      overview: Übersicht
+      wiki_pages: Wiki<span class="hidden-sm">-Seiten</span>
+      more_research: Mehr zum Thema "%{tag}"
+    revisions:
+      revisions_for: Revisionen für <i>%{wiki}</i>
+      view: Ansehen
+      edit: Editieren
+      revisions: Revisionen
+      table_content: |
+        <th>#</th>
+        <th>Nutzer</th>
+        <th>Erstellt</th>
+        <th></th>
+        <th></th>
+        <th>Rohdaten</th>
+      moderated: MODERIERT
+      current: AKTUELL
+      revert: Wiederherstellen
+      are_you_sure: Bist Du sicher?
+      republish: Erneut Veröffentlichen
+      comparing_revision: Vergleiche Revision <span id='older'>%{revision_1}</span>
+        mit Revision <span id='newer'>%{revision_2}</span>
+    edit:
+      did_you_mean: Meintest Du
+      try_searching_for: Versuche <a href='%{url1}'>nach '%{wiki}' &raquo; zu suchen</a>
+      whats_a_wiki_page: |
+        <h3><i class="fa fa-book"></i> Was sind<br /> Wiki-Seiten?</h3>
+        <p>Bei Public Lab arbeiten wir alle zusammen, um quelloffene Tools für die Umweltforschung zu erfinden und zu verbessern. <b>Wiki-Seiten</b> sind Webseiten die Jeder erstellen oder ändern kann. Wir benutzen sie um Informationen zu sammeln, für Dokumentationen und Anleitungen zu unseren Projekten.</p>
+        <p><b>Wiki-Seiten können beinhalten:</b></p>
+        <ul>
+        <li>Ein <a href="/tag/tutorial">Tutorial</a> zur Herstellung von etwas</li>
+        <li>Dokumentation eines Projekts</li>
+        <li>Die Planung eines Events</li>
+        <li>Eine Liste/Sammlung von Research Notes</li>
+        <li>etc!</li>
+        </ul>
+      more: Weitere Themen
+      getting_started: Erste Schritte bei Public Lab
+      revisions_for_this_page: Revisionen dieser Wiki-Seite
+      about_posting_research: Das Erstellen von Research Notes
+      advanced_formatting: Erweiterte Formatierung
+      editing_page: 'Editiere Seite:'
+      create_page: Erstelle Seite
+      publish: Veröffentlichen
+      preview: Vorschau
+      previewing_text: Vorschau (klicken zum Editieren)
+      agree_to_open_source_work: Mit dem Erstellen und Bearbeiten einer Seite stimmst
+        Du zu <a target='_blank' href='%{url1}'>deine Arbeit als Open-Source zu veröffentlichen</a>,
+        damit andere sie nutzen können.
+      last_edited_by: Diese Seite wurde zuletzt bearbeitet vor  %{time} von <a href='%{url1}'>%{author}</a>
+    _wikis:
+      table_content: |
+        <th>Titel</th>
+        <th>Zuletzt bearbeitet</th>
+        <th>Revisionen</th>
+        <th class="hidden-xs">Aufrufe</th>
+      likes: Likes
+      by: von
+  home:
+    dashboard:
+      need_help: Du brauchst Hilfe, willst eine Idee voranbringen oder Mitstreiter
+        finden?
+      join_discussion_list: Tritt einer thematischen oder lokalen Public Lab Diskussionsliste
+        bei
+      no_research_note: 'Du hast noch keine Research Note veröffentlicht -- '
+      sharing_work: teile Deine Werke und Interessen
+      please: Bitte
+      create_password: erstelle ein Passwort für die neue PublicLab.org Seite
+      older_site_deactive: die alte Website (PublicLaboratory.org) wird bald deaktiviert.
+      dashboard_main:
+        welcome: Willkommen
+        notes: Notizen
+        and: und
+        wiki_edits: Änderungen im Wiki
+        posted_last_week: wurden in der letzten Woche veröffentlicht.
+    home:
+      public_lab_community: 'ist eine Community, die das Untersuchen von Umweltbelangen
+        erforscht und vermittelt. Mit kostengünstigen Do-it-yourself-Lösungen versuchen
+        wir zu ändern wie Menschen die Welt im Hinblick auf ökologische, soziale und
+        politische Aspekte sehen. '
+      join_now: Jetzt anmelden
+      the_problem:
+        title: I. Das Problem
+        lack_access: Gemeinschaften mangelt es an
+        tools: den Werkzeugen und Techniken
+        need_participation: die benötigt werden um sich an Entscheidungen zu beteiligen
+          die ihre Umwelt betreffen, besonders im Hinblick auf Umweltgefährdung.
+      the_collaboration:
+        title: II. Die Zusammenarbeit
+        open_network: Wir sind ein offenes Netzwerk von
+        organizers: Community-Organisatoren,
+        create_low_cost_solutions: 'Lehrern, Technologen und Forschern die an kostengünstigen
+          Lösungen arbeiten im Bereich der '
+        monitoring: Überwachung von Luft, Wasser und Erdboden
+        discover: Mit der Hilfe einer globalen Community kannst du
+        locally_important_matters: wichtige lokale Angelegenheiten
+        global_community: entdecken, zusammen arbeiten und selbst etwas beitragen.
+      the_solution:
+        title: III. Die Lösung
+        join_us_today: Melde Dich heute an und hilf uns eine Community aus DIY-Aktivisten
+          und Entdeckern aufzubauen, die mit einfachsten Werkzeugen einen
+        growing_data: wachsenden Datenbestand
+        local_environments: 'über unsere lokale Umgebung erstellen. '
+    _comments:
+      commented: kommentierte
+      read_more: Weiterlesen
+    subscriptions:
+      title: Abonnements
+      up_to_date_emails: halten Dich auf dem Laufenden über Themen bei Public Lab.
+        Du kannst zwischen der Benachrichtigung per Email oder als Kurzfassung wählen.
+      manage_subscriptions: Meine Abonnements
+      click_unfollow: Nicht mehr folgen
+      following: Folge
+      research_notes: allen Notzien
+      subscribe_to: Abonniere
+      all: alle
+      notes: Notizen
+      receive_mails: Empfange Emails für alle Research Notes
+      enter_tags: Tags eingeben
+      add: Hinzufügen
+      tag: Tag
+      options: Optionen
+      share_subscription_link: Teile dieses Abonnement
+      share: Teilen
+      unsubscribe: Abbestellen
+  wiki_controller:
+    new_wiki_page: Neue Wiki-Seite
+    pages_does_not_exist: Diese Seite existiert noch nicht. Du musst eingeloggt sein
+      um eine neue Wiki-Seite zu erstellen.
+    page_moderated_as_spam: 'Diese Seite wurde als Spam markiert. Bitte kontaktiere
+      web@publiclab.org falls Du glaubst, dass ein Missverständnis vorliegt. '
+    someone_clicked_edit_5_minutes_ago: Jemand hat vor weniger als 5 Minuten 'Editieren'
+      geklickt; sei vorsichtig um nicht die Änderungen Anderer zu überschreiben!
+    page_does_not_exist_create: 'Diese Seite existiert noch nicht, aber Du kannst
+      sie jetzt erstellen:'
+    wiki_page_created: Wiki-Seite erstellt
+    you_have_been_banned: 'Du wurdest blockiert. Bitte kontaktiere <a href=''mailto:web@publiclab.org''>web@publiclab.org</a>
+      falls Du glaubst, dass ein Fehler vorliegt. '
+    edit_could_not_be_saved: Deine Änderungen konnten nicht gespeichert werden.
+    edits_saved: Änderungen gespeichert.
+    wiki_page_deleted: Wiki-Seite gelöscht.
+    only_admins_delete_pages: Nur Administratoren können Wiki-Seiten löschen.
+    wiki_page_reverted: Die Wiki-Seite wurde zurückgestellt.
+    problem_reverting: Es gab einen Fehler beim Zurückstellen.
+    moderators_admin_delete_pages: Nur Moderatoren und Admins können Wiki-Seiten löschen.
+    revisions_for: Revisionen für '%{title}'
+    invalid_wiki_page: Ungültige Wiki-Seite. Es existieren keine Revisionen für diese
+      Wiki-Seite.
+    revision_not_found: Revision nicht gefunden.
+    revision_has_been_moderated: Diese Revision wurde moderiert. <a href='/wiki/moderation'>Erfahre
+      mehr über das Moderieren von Seiten</a>.
+    wiki: Wiki
+    popular_wiki_pages: Beliebte Wiki-Seiten
+    well_liked_wiki_pages: Beliebte Wiki-Seiten
+  comments:
+    _edit:
+      uploading: Hochladen...
+      drag_and_drop: Füge ein Bild oder eine Datei per Drag &amp; Drop hinzu, oder
+      choose_one: wähle aus
+      upload_image: Bild hochladen
+      preview: Vorschau
+      cancel: Verwerfen
+      publish: Veröffentlichen
+      logged_in: Angemeldet als <b>%{username}</b>
+      formatting: Formatierung
+      notifications: Benachrichtigungen
+      email_notifications: Der Autor, Kommentatoren und Personen die diese Notiz "geliked"
+        haben erhalten Email-Benachrichtigungen
+    _form:
+      uploading: Hochladen...
+      drag_and_drop: Füge ein Bild oder eine Datei per Drag & Drop hinzu, oder
+      choose_one: wähle aus
+      upload_image: Bild hochladen
+      preview: Vorschau
+      cancel: Verwerfen
+      publish: Veröffentlichen
+      logged_in: Angemeldet als <b>%{username}</b>
+      formatting: Formatierung
+      notifications: Benachrichtigungen
+      email_notifications: Der Autor, Kommentatoren und Personen die diese Notiz "geliked"
+        haben erhalten Email-Benachrichtigungen
+  tag:
+    show:
+      notes_tagged: Notizen mit dem Tag <i style="color:#aaa;">%{tag}</i>
+      following: Du folgst
+      unfollow: Nicht mehr Folgen
+      follow: Folge
+      none: Keine
+      users_following_tag: Nutzer die diesem Tag folgen
+      ask_question: Stelle eine Frage über <b>%{tag}</b>
+      or_subscribe_to_answer: oder <a style='margin-bottom:6px;' class='btn btn-default'
+        target='_blank' href='%{url1}'>Folge um Fragen zu diesem Thema zu beantworten</a>
+      research_notes: <span class="hidden-sm">Research </span>Notes
+      questions: Fragen
+      wiki_pages: Wiki<span class="hidden-sm"> Seiten</span>
+      maps: Orte
+      no_results_found: Keine Ergebnisse gefunden; suche auf der gesamten Seite nach
+        '<b>%{tag}</b>'
+      try_advanced_search: Oder nutze die <a href='%{url1}'>erweiterte Suche</a>
+  js:
+    dashboard:
+      all_updates: Alle Updates
+  talk:
+    show:
+      welcome: Diskussionsseite für <a href='%{url1}'>%{page}</a> | Auf dieser Seite
+        kannst Du simultan mit mehreren Leuten an einem Dokument arbeiten. <a href='%{url2}'>Lerne
+        mehr darüber</a>
+      try_direct_link: Falls die Seite nicht korrekt dargestellt wird, <a href='%{url1}'>versuche
+        es hier</a>
+  layout:
+    _header:
+      your_dashboard: Deine Übersicht
+      projects:
+        projects_title: Projekte
+        research:
+          research_title: Forschung
+          research_notes: Research Notes
+          publiclab_wiki: Public Lab Wiki
+          questions: Fragen
+          tools: Werkzeuge
+          places: Orte
+          kits: Kits
+          comments: Neuste Kommentare
+        initiatives:
+          initiatives_title: Initiativen
+          open_land: Open Land
+          open_water: Open Water
+          open_air: Open Air
+        lending_library: Werkzeuge Ausleihen
+      search: Suche
+      about:
+        about_title: Über Uns
+        stories: Geschichten
+        blog: Blog
+        about_public_lab: Über Public Lab
+        team: Non-Profit Team
+        organizers: Organisatoren
+        board: Non-Profit Ausschuss
+        fund: Unsere Finanzierung
+        press_and_media: Presse und Medien
+        contact: Kontakt
+      get_involved:
+        get_involved_title: Beteiligen
+        getting_started: Der Anfang
+        join: Anmeldung zur Website
+        discussion_lists: Diskussionsgruppen
+        attend_event: Nimm an einem Event teil
+        post_event: Erstelle ein Event
+        new_chapters: Start ein neues Kapitel
+        new_projects: Starte ein neues Projekt
+        organizer: Werde ein Organisator
+      data:
+        data_title: Daten
+        archive: Public Lab Archiv
+        web_tools:
+          web_tools_title: Online tools
+          mapknitter: MapKnitter
+          spectral_workbench: Spectral Workbench
+          infragram: Infragram
+          open_water: Open Water
+      donate: Spende
+      store: Store
+      chatroom:
+        pop_out: Fenster extern öffnen
+        chatroom_title: Public Lab Chatraum
+      become_part_community: Werde Teil dieser Community
+      join: Beitreten
+      dashboard: Übersicht
+      profile: Mein Profil
+      edit_profile: Profil bearbeiten
+      subscriptions: Abonnements
+      notes_liked: Von Dir geliked
+      logout: Ausloggen
+      login:
+        login_title: Login
+        username: Benutzername
+        password: Passwort
+        remember_me: Eingaben merken
+        sign_up: Registrieren
+        reset_password: Passwort zurücksetzen
+      language:
+        language_title: Sprache
+      research_note: Research Note
+      wiki_doc: Wiki Dokumentation
+    _footer:
+      getting_help:
+        report_bug: Melde Fehler oder Probleme mit der Website
+        email_working_group: Schreibe eine Email an das Web-Team
+        publiclab_oss: PublicLab.org ist <a href='%{url1}'> Open-Source-Software</a>
+          - und <a href='%{url2}'>auf der Suche nach Mitwirkenden</a>
+      links:
+        about: Über Public Lab
+        licenses: Lizenzen
+        site_statistics: Statistik zur Website
+        rss: RSS
+      license: Diese Arbeit is lizenziert unter der <a href='%{creative_commons_url}'>Creative
+        Commons Attribution-ShareAlike 3.0 Unported License</a>. Hardware-Designs
+        auf dieser Seite werden unter der <a href='%{cern_license_url}'>CERN Open
+        Hardware License 1.1</a> veröffentlicht. Weitere Informationen über die <a
+        href='%{publiclab_license_url}'>Open-Source-Lizenzierung</a> bei Public Lab
+        finden sie hier.
+      different_licenses: 'Einige Werke auf dieser Seite können unter einer anderen
+        Lizenz veröffentlicht sein, wenn der Author dies explizit angibt. '
+      font_use: Diese Seite macht umfänglich Gebraucht der Open-Source Schriftart
+        <a href='%{url}'>Junction</a>.
+      server_donation: Das Webhosting für PublicLab.org ist eine Spende von <a href='%{url}'>Rackspace</a>.
+      language:
+        language_title: Sprache

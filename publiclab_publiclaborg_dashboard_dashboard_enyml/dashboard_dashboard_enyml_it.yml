@@ -1,0 +1,5 @@
+it:
+  dashboard:
+    dashboard:
+      from_blog: "Dal <a href='%{url}'>Blog del Public Lab</a>"
+      by: "di"

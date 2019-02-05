@@ -1,0 +1,14 @@
+zh:
+  comments:
+    _form:
+      uploading: "上载"
+      drag_and_drop: "拖放图像或文件"
+      choose_one: "选一项"
+      upload_image: "上载图片"
+      preview: "预见"
+      cancel: "取消"
+      publish: "发布"
+      logged_in: "登录 {以用户名}"
+      formatting: "格式化"
+      notifications: "通知"
+      email_notifications: "作者，评论者以及“喜欢”此评论的用户都会收到电子邮件通知"

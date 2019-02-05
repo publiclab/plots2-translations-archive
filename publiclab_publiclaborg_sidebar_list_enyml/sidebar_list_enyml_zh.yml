@@ -1,0 +1,7 @@
+zh:
+  sidebar:
+    _list:
+      mailing_list: "加入 <a href='%{url1}'<b>%{mailing_list}</b> 邮件列表 </a>"
+      subscribe: "订阅"
+      recent_discussion_topics: "最近讨论主题"
+      all_topics: "全部主题"

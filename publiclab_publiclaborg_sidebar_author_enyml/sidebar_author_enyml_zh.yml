@@ -1,0 +1,4 @@
+zh:
+  sidebar:
+    _author:
+      recent_tags_for_author: "最近的标签 <a href='%{url1}'>%{author}</a>"

@@ -1,0 +1,17 @@
+de:
+  tag:
+    show:
+      notes_tagged: "Notizen mit dem Tag <i style=\"color:#aaa;\">%{tag}</i>"
+      following: "Du folgst"
+      unfollow: "Nicht mehr Folgen"
+      follow: "Folge"
+      none: "Keine"
+      users_following_tag: "Nutzer die diesem Tag folgen"
+      ask_question: "Stelle eine Frage über <b>%{tag}</b>"
+      or_subscribe_to_answer: "oder <a style='margin-bottom:6px;' class='btn btn-default' target='_blank' href='%{url1}'>Folge um Fragen zu diesem Thema zu beantworten</a>"
+      research_notes: "<span class=\"hidden-sm\">Research </span>Notes"
+      questions: "Fragen"
+      wiki_pages: "Wiki<span class=\"hidden-sm\"> Seiten</span>"
+      maps: "Orte"
+      no_results_found: "Keine Ergebnisse gefunden; suche auf der gesamten Seite nach '<b>%{tag}</b>'"
+      try_advanced_search: "Oder nutze die <a href='%{url1}'>erweiterte Suche</a>"

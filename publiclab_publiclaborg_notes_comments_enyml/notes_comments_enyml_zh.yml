@@ -1,0 +1,7 @@
+zh:
+  notes:
+    _comments:
+      comments: "评论"
+      post_comment: "发表评论"
+      post_placeholder: "帮助作者优化他们的帖子，或指向网站上的其他有用信息。通过@username提及用户通过电子邮件通知他们这个线程"
+      must_be_logged_in: "您必须<a href='%{url1}'>登录</a>才能发表评论。"

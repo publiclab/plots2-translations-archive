@@ -1,0 +1,5 @@
+de:
+  dashboard:
+    dashboard:
+      from_blog: "Aus dem <a href='%{url}'>Public Lab Blog</a>"
+      by: "von"

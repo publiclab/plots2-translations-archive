@@ -1,0 +1,21 @@
+hi_IN:
+  dashboard:
+    _header:
+      share_work: "अपने काम को बॉटना"
+      dropdown:
+        share_research_note: "अनुसंधान नोट्स को बॉटना"
+        ask_question: "प्रश्न पूछें"
+        post_event: "एक घटना पोस्ट करे"
+        tell_story_blog: "ब्लॉग पर अपनी कहानी बताओ"
+      dashboard: "डैशबोर्ड"
+      community_research: "सामुदायिक अनुसंधान"
+      welcome: "स्वागत"
+      notes: "टिप्पणियाँ"
+      and: "\t\nऔर"
+      wiki_edits: "विकी संपादन"
+      posted_past_week: "पिछले सप्ताह में नियुक्त!"
+      you_shared: "आपने साझा किया है"
+      research_note: "शोध पत्र"
+      research_notes: "शोध के पत्र"
+      this_could_be_dashboard: "यह आपका डैशबोर्ड हो सकता है अगर आप"
+      joined_public_lab: "पब्लिक लैब में शामिल हो गए"

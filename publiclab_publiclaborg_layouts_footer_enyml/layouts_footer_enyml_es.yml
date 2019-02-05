@@ -1,0 +1,20 @@
+es:
+  layout:
+    _footer:
+      getting_help:
+        report_bug: "Reporta una falla o incidencia"
+        email_working_group: "Escribe al grupo de trabajo Web"
+        publiclab_oss: "PublicLab.org es <a href='%{url1}'>software libre o de código abierto</a> - y <a href='%{url2}'>busca colaboradores</a>"
+      links:
+        about: "Acerca de"
+        getting_started: "Para empezar"
+        licenses: "Licencias"
+        discussion_lists: "Listas de discusión"
+        site_statistics: "Estadísticas del sitio"
+        rss: "RSS"
+      license: "Esta obra se encuentra bajo una licencia <a href='%{creative_commons_url}'>Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. Los diseños de hardware en este sitio se publican bajo la licencia  <a href='%{cern_license_url}'>CERN Open Hardware License 1.1</a>. Lea más sobre las <a href='%{publiclab_license_url}'>licencias libres y abiertas</a> que usa Public Lab."
+      different_licenses: "Algunas obras en este sitio podrían estar bajo otras licencias, siempre que las mismas estén claramente indicada por sus autores."
+      font_use: "Este sitio usa ampliamente la fuente tipográfica <a href='%{url}'>Junction</a>."
+      server_donation: "PublicLab.org se hospeda gracias a una donación de espacio de servidores por parte de <a href='%{url}'>Rackspace</a>."
+      language:
+        language_title: "Idiomas"

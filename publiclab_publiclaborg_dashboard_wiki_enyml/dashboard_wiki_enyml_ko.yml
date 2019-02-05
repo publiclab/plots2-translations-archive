@@ -1,0 +1,10 @@
+ko:
+  dashboard:
+    _wiki:
+      shared_knowledge_base: "커뮤니티 과학을 위한 <a href='%{url}'>지식 공유 웹사이트</a>"
+      search: "찾기..."
+      new_page: "새 페이지"
+      new_page_by: '새 페이지 작성자:'
+      new_edit_by: '새 편집 작성자:'
+      changes: "변경 사항"
+      more: '더보기'

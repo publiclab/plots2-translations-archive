@@ -1,0 +1,12 @@
+zh:
+  notes_controller:
+    research_notes: "调查笔记"
+    thank_you_for_contribution: "成功！感谢您提供公开研究结果，感谢您的耐心等待，同时<a href='/wiki/moderation'>社群管理员</a>已核准您的讯息，我们会在发布时向您发送电子邮件。在此期间，如果你有更多的贡献，随意这样做。"
+    research_note_published: "研究论文出版。在<a href='/lists'>讨论列表</a>上了解相关内容！"
+    you_have_been_banned: "您已经被禁止。如果您认为这是错误的，请与<a href='mailto:moderators@publiclab.org'> moderators@publiclab.org </a>联系。"
+    author_can_edit_note: "只有作者才能编辑研究笔记."
+    edits_saved: "笔记已保存修改"
+    edit_not_saved: "无法保存您笔记的修改"
+    content_deleted: "内容已删除"
+    highly_liked_research_notes: "非常喜欢的研究笔记"
+    popular_research_notes: "热门研究笔记"

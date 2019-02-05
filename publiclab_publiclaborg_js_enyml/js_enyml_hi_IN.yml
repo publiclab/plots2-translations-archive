@@ -1,0 +1,6 @@
+hi_IN:
+  js:
+    dashboard:
+      selected_updates: "चुने गए अपडेट"
+      none: "कोई नहीं"
+      all_updates: "सभी अपडेट"

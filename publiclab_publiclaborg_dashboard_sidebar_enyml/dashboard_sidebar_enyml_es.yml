@@ -1,0 +1,13 @@
+es:
+  dashboard:
+    _sidebar:
+      wiki: "Wiki"
+      discussion_list: "Listas de discusión"
+      all: 'Todo'
+      public_laboratory: "Laboratorio Público"
+      grassroots_mapping: "Cartografía básica"
+      spectrometry: "Espectrometría"
+      infrared: 'Infrarrojo'
+      air_quality: "Calidad del Aire"
+      water_quality: "Calidad del Agua"
+      developers: "Desarrolladores"

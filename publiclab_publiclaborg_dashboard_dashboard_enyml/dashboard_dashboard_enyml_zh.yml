@@ -1,0 +1,5 @@
+zh:
+  dashboard:
+    dashboard:
+      from_blog: "从  <a href='%{url}'>Public Lab 的博客</a>"
+      by: "由"

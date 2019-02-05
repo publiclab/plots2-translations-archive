@@ -1,0 +1,24 @@
+de:
+  home:
+    home:
+      public_lab_community: 'ist eine Community, die das Untersuchen von Umweltbelangen erforscht und vermittelt. Mit kostengünstigen Do-it-yourself-Lösungen versuchen wir zu ändern wie Menschen die Welt im Hinblick auf ökologische, soziale und politische Aspekte sehen. '
+      join_now: 'Jetzt anmelden'
+      the_problem:
+        title: 'I. Das Problem'
+        lack_access: 'Gemeinschaften mangelt es an'
+        tools: 'den Werkzeugen und Techniken'
+        need_participation: 'die benötigt werden um sich an Entscheidungen zu beteiligen die ihre Umwelt betreffen, besonders im Hinblick auf Umweltgefährdung.'
+      the_collaboration:
+        title: 'II. Die Zusammenarbeit'
+        open_network: 'Wir sind ein offenes Netzwerk von'
+        organizers: 'Community-Organisatoren,'
+        create_low_cost_solutions: 'Lehrern, Technologen und Forschern die an kostengünstigen Lösungen arbeiten im Bereich der '
+        monitoring: 'Überwachung von Luft, Wasser und Erdboden'
+        discover: 'Mit der Hilfe einer globalen Community kannst du'
+        locally_important_matters: 'wichtige lokale Angelegenheiten'
+        global_community: 'entdecken, zusammen arbeiten und selbst etwas beitragen.'
+      the_solution:
+        title: 'III. Die Lösung'
+        join_us_today: 'Melde Dich heute an und hilf uns eine Community aus DIY-Aktivisten und Entdeckern aufzubauen, die mit einfachsten Werkzeugen einen'
+        growing_data: 'wachsenden Datenbestand'
+        local_environments: 'über unsere lokale Umgebung erstellen. '

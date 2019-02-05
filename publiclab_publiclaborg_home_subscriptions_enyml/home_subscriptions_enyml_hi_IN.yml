@@ -1,0 +1,15 @@
+hi_IN:
+  home:
+    subscriptions:
+      title: 'सदस्यताएँ'
+      manage_subscriptions: 'सदस्यता प्रबंधित करें'
+      click_unfollow: 'अनुसरण के लिए क्लिक करें'
+      following: 'निम्नलिखित'
+      research_notes: 'सभी अनुसंधान नोटों'
+      subscribe_to: 'की सदस्यता लेना'
+      all: 'सब'
+      notes: 'टिप्पणियाँ'
+      receive_mails: 'सभी अनुसंधान नोट्स के लिए ईमेल प्राप्त करें।'
+      enter_tags: 'टैग दर्ज'
+      add: 'जोड़ना'
+      tag: 'टैग'
